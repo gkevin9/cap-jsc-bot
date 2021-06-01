@@ -21,9 +21,9 @@ def parse_args():
 
     return args
 
-def main():
-    arg = parse_args()
-    question = arg.question
+def main(question):
+    # arg = parse_args()
+    # question = arg.question
 
     #load model
     model = tf.keras.models.load_model("s2s")
@@ -82,7 +82,7 @@ def main():
         # Update states
         states_value = [h, c]
 
-    print(decoded_sentence)
+    return decoded_sentence
 
 def preprocessing(question, vocab):
     inputArr = question.split(" ")
