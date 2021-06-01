@@ -1,0 +1,617 @@
+nama_usaha,alamat,penanggung_jawab,badan_usaha,nomor_telepon,nomor_faximili,jenis_hotel,masa_berlaku
+POP! HOTEL KEMANG,Jl. Kemang Raya No. 3,Ryan Adrian,PT. Hotel Kemang Realty,021 5220568,021 5207931,H Bintang 1,06-02-15
+PECENONGAN CITY,Jl. Ceylon No. 19,Etty Latifah Aljufri,PT. Pecenongan City Hotel,021 3853583,021 3855757,H Bintang 1,22-02-15
+IBIS BUDGET,Jl. HOS Cokroaminoto No. 79,L. Erfurt Chandra Putra Asali,PT. Jakarta Setiabudi Internasional Tbk,021 3918007,021 3918007,H Bintang 1,25-02-15
+ANGKASA,Jl. Sultan Hamengkubuwono IX KM. 25 RT. 001/00 ,Trisno Soehardi,PT. Wisata Angkasa Permai,021 46825890,021 46826791,H Bintang 1,27-02-15
+PURI MEGA,Jl. Rawamangun No. 59,Bambang Siswanto,PT. Setralcipta Propertindo,021 4214744,021 4246562,H Bintang 1,04-03-15
+TUGU ASRI,Jl. Jatibaru No. 7-9,Lina Asmahan Abdullah,PT. Hotel Tugu Asri,021 326292,021 3804300,H Bintang 1,27-03-15
+MIRAH,Jl. Gunung Sahari XII/18,Atam Sentjaja,PT. Beringin Selaras Graha,021 6598250,021 6598255,H Bintang 1,15-04-15
+PENINSULA HOTEL,Jl. Mangga Besar Raya No. 60,Gunawan Latief,PT. Peninsula Karya Jaya,021 6260368,021 6593749,H Bintang 1,16-06-15
+IBIS BUDGET,Jl. Cikini Raya No. 75,"Andi Sofyan., SH",PT. Hotel Cikini Realty,021 108,021 108,H Bintang 1,17-09-15
+POP ! HOTEL KELAPA GADING,Jl. Kelapa Gading Boulevard,Johanes Mardjuki,PT. Summarecon Hotelindo,021 108,021 108,H Bintang 1,07-11-15
+MEGAH INTERNASIONAL,Jl. Bungur Besar Raya No. 31,Ong Mie Kia,CV. Hotel Megah Internasional,021 4259781,021 4259780,H Bintang 1,21-11-15
+HOTEL PURI JAYA,Jl. Percetakan Negara V/5,Bambang Siswanto,PT. Sulaiman Maharaja Diraja,021 4215320,021 4215322,H Bintang 1,26-11-15
+BANYUWANGI SINTERA,Jl. H. Samanhudi 32 B-34,Ali Hasan,PT. Banyuwangi Sintera,021 3857551,021 3808581,H Bintang 1,29-11-15
+MAX ONE HOTELS.COM @ Sabang,Jl. KH. Agus Salim No. 24,Julius Octavianus Ruslan,PT. Batavia Land,021 3166888,021 3922157,H Bintang 1,10-12-15
+C' ONE HOTEL CEMPAKA PUTIH,Jl. Letjen Suprapto,"Idris Sasmita, MM",PT. Jakarta Tourisindo,021 4250126,021 4213051,H Bintang 1,11-12-15
+FAVE HOTEL,Jl. Kemang I No. 6 RT. 011/011,Drs. H. Dalyono Nimpuno,PT. Griya Upajiwana,021 108,021 108,H Bintang 1,20-12-15
+RENSA SOFYAN,Jl. Raya Duren Sawit No. 108,H. Husman Muhamad,CV. Rensa Raya,021 8602909,021 8615509,H Bintang 1,12-06-16
+GOLDEN BAY,Jl. Teluk Gong Raya No. 12,Ka Tjin,PT. Duta Indah Hotel,021 66676168,021 66676190,H Bintang 2,18-02-14
+AMARIS,Jl. Mampang Prapatan Raya No. 66,Yuli Pancawati,PT. Multi Tingkat Mandiri,021 7985535,021 7985532,H Bintang 2,02-07-14
+OLYMPIC,Jl. Mangga Besar VII BLOK A.63,Harijanto Aman,PT. Bercindo Bersama Jaya,021 6267280,021 6006633,H Bintang 2,22-07-14
+HOTEL AGRAHA JAKARTA,Jl. Bandengan Selatan No. 20 RT. 0011/05,Agus Harianto,PT. Risul Graha,021 108,021 108,H Bintang 2,28-10-14
+HOTEL  N1,Jl. KS. Tubun No. 3 RT.002/01,Nariman,PT. Hotel Royal Valindo,021 53653909,021 53653908,H Bintang 2,28-10-14
+HOTEL N3,Jl. KH. Zainul Arifin No. 57 RT. 001/03,Nariman,PT. Hotel Gitano Selaras,021 53653908,021 53653910,H Bintang 2,30-12-14
+MEGA MATRA,Jl. Matraman Raya No. 115,Rachman Santoso,PT. Arthagemilang Pratama Selaras,021 8566355,021 8566337,H Bintang 2,04-02-15
+TRAVEL,Jl. Mangga Besar VIII No. 21,Foronkid Gunawan,PT. Seriatama Indoreka,021 6212721,021 6293810,H Bintang 2,18-06-15
+MEGA,Jl. Proklamasi No. 40,Sujana,PT. Mega Jaya Adisempurna,021 3923131,021 3152173,H Bintang 2,02-07-15
+TEMATIK HOTEL,Jl. Raya Jembatan Tiga No. 35,Wedji Hartono P,PT. Tumbuh Sehat Makmur,021 66690366,021 66690566,H Bintang 2,17-07-15
+FASHION,Jl. Gunung Sahari XII No.2,Wedji Hartono P,PT. Tumbuh Sehat Makmur,021 6490808,021 6490808,H Bintang 2,06-09-15
+SURYA BARU,Jl. Batu Ceper No. 11 A,Tuty Suryani Budiman,PT. Wisataria Surya Kencana,021 3811108,021 3861878,H Bintang 2,19-09-15
+SURYA,Jl. Batu Ceper 44-46,Tuty Suryani Budiman,CV. Hotel Surya,021 3808442,021 3861878,H Bintang 2,18-10-15
+HOTEL FAVE,Jl. Gading Indah Raya No. 8 Blok C/32,Irawan Ambiadi Suwandi,PT. Miagata Anugrah Abadi,021 108,021 108,H Bintang 2,31-10-15
+MENTENG I,Jl. Rp. Soeroso No. 28,Sujana,PT. Menteng Sarana Wisata,021 325543,021 3144151,H Bintang 2,19-11-15
+HOTEL FAVE,Jl. KH. Samanhudi No. 26 RT. 005/003,Abujadi Hartawan,PT. Wisana Matrakarya,021 108,021 108,H Bintang 2,29-11-15
+BUNGA-BUNGA,Jl. Antara No. 13,Poli Hidayat,PT. Cipta Bunga Sakti,021 34832026,021 34832026,H Bintang 2,29-11-15
+ROYAL,Jl. Ir. H. Juanda No. 14,Naif Abdullah,PT. Royal Hotel,021 3804301,021 3804300,H Bintang 2,10-12-15
+TEBET SOFYAN,"Jl. Prof. DR. Soepomo, SH No. 23",Bagus Moeshari,PT. Sofyan Hotels Tbk,021 8295691,021 8307495,H Bintang 2,20-12-15
+PRINSEN PARK,Jl. Mangga Besar IX/83-85,Suwadi Soborono,PT. Duta Pendawa Kharisma,021 6289101,021 6289408,H Bintang 2,18-02-16
+MAXIM ASRI,Jl. Kwitang Raya No. 11,Navies,PT. Hotel Maxim Asri,021 108,021 108,H Bintang 2,19-02-16
+ARWANA,Jl. Mangga Besar VIII No. 7,Damli Tandi,PT. Daharin Gama Sejahtera,021 6009925,021 6006879,H Bintang 2,22-02-16
+HOTEL ASTIKA,Jl. Mangga Besar Raya No. 76,Tjong Iek Chien,PT. Palm Semesta Cemerlang,021 6241188,021 6269988,H Bintang 2,04-03-16
+BINTANG BARU,Jl. Dr. Sutomo No. 9,Hendro Susanto,PT. Praja Cipta Perkasa,021 3515533,021 3515656,H Bintang 2,27-03-16
+MENTENG II,Jl. Cikini Raya 105,Sujana,PT. Menteng Sarana Wisata,021 31925543,021 321311,H Bintang 2,28-05-16
+ALEANDER,Jl. Antara No. 35,Poli Hidayat,PT. Bungabunga Tigalima,021 38902105,021 3524652,H Bintang 2,25-06-16
+TREVA INTERNATIONAL,Jl. Menteng Raya No. 33,"Dr. H. Muslim, SH., MBA",PT. Gharmapala Putra Utama,021 31900240,021 31900241,H Bintang 2,21-01-14
+GOLDEN BAY,Jl. Teluk Gong Raya No. 12,Ka Tjin,PT. Duta Indah Hotel,021 66676168,021 66676190,H Bintang 2,18-02-14
+NEW HARMONI,Jl. Hayam Wuruk No. 1,Rani Ventaria,PT. Harmoni Prima Jaya,021 108,021 108,H Bintang 2,25-02-14
+THE MANSION,Kawasan Mega Kuningan Jl. Mega Kuningan Timu,Amin Maulana,PT. Sendico Wiguna Lestari,021 53668360,021 53651895,H Bintang 2,18-04-14
+GREN ALIA PRAPATAN,Jl. Prapatan No. 28,Faisal Ali,PT. Hotel Gren Alia Prapatan,021 34834444,021 34835222,H Bintang 2,07-05-14
+BUSINESS HOTEL,Jl. Hayam Wuruk No. 77,Arifin Siman,PT. Super Sukses Nusantara,021 3500123,021 3504567,H Bintang 2,30-05-14
+GRAND PARAGON,Jl. Gajah Mada No. 126,Theressia,PT. Gajah Mada Square,021 6258822,021 6252111,H Bintang 2,03-06-14
+THE DHARMAWANGSA,Jl. Brawidjaya Raya No. 39,Indrarto Kartohadiprodjo,PT. Puri Dharmawangsa Raya Hotel,021 7258151,021 7258383,H Bintang 2,12-06-14
+GOLDEN BOUTIQUE MELAWAI,Jl. Melawai VIII No. 6-8,Rachmat Arifin,PT. Jade Global Development,021 7234555,021 7234555,H Bintang 2,28-06-14
+AMARIS,Jl. Mampang Prapatan Raya No. 66,Yuli Pancawati,PT. Multi Tingkat Mandiri,021 7985535,021 7985532,H Bintang 2,02-07-14
+HOLIDAY INN EXPRESS PLUIT,Mall Emporium Lt. 10 Jl. Pluit Selatan Raya No. 01,Willy Jono,PT. Sentra Graha Kencana,021 66676651,021 66676652,H Bintang 2,12-07-14
+OLYMPIC,Jl. Mangga Besar VII BLOK A.63,Harijanto Aman,PT. Bercindo Bersama Jaya,021 6267280,021 6006633,H Bintang 2,22-07-14
+ALL SEDAYU HOTEL,Kelapa Gading Square Mall Of Indonesia lobby 5 Jl PT. Citra Kirana Abadi,Alexander Halim Kusuma,PT. Bercindo Bersama Jaya,021 29365000,021 29365001,H Bintang 2,26-07-14
+DELTA HOTEL,Jl. Gatot Subroto Kav. 76 RT. 001/01,silverius juniko,PT Galaxi Candra purnama,021 108,021 108,H Bintang 2,26-07-14
+HOTEL NEO,Rukan Mangga Dua Square Blok A No. 10-12 & 15  PT. Inti Elok Persada      ,Jacksen,PT Inti Elok Persada,021 62312559,021 108,H Bintang 2,26-07-14
+HOTEL GRIYA ADAMAR,Jl. TB. Simatupang RT. 011/004,Drs. H. Dalyono Nimpuno,PT Griya Adamar,021 29529042,021 29529042,H Bintang 2,04-09-14
+PRAMUKA HOTEL,Jl. Pramuka Raya No. 149 RT. 14/07,"Jan Semesta, MBA",PT Menteng Sarana Wisata,021 4212108,021 4212108,H Bintang 2,04-09-14
+GRAND CILEDUG,Jl. Ciledug Raya RT.004/03,Danue Tanpuyani,,021 108,021 108,H Bintang 2,26-09-14
+STADIUM,Jl. Hayam Wuruk No. 111 GG - HH - II,Rudy Susanto,PT Graha Rekreasi Berjaya,021 108,021 108,H Bintang 2,26-09-14
+GOLDEN HANDS HOTEL,Jl. Bandengan Selatan No. 43,Tri Saputro,PT Danau Mas Tirta Mandiri,021 108,021 108,H Bintang 2,30-09-14
+SYDNEY 2000,Jl. Hayam Wuruk Komp Glodok Jaya Lt. 8,Harijanto Aman,PT Gema Surya Aman Jaya,021 6250685,021 6250685,H Bintang 2,04-10-14
+POP ! HOTEL,Jl. Prof. DR. Soepomo SH No. 29,R.H Santosa,PT Tri Kusuma Santosa,021 83794916,021 634876,H Bintang 2,09-10-14
+SAVVOYA MENTENG HOTEL,Menteng Square Tower C Jl. Matraman Raya No. 3 ,Paramita Putri Diyanti,PT. Bahama Triple Eleven,021 108,021 108,H Bintang 2,28-10-14
+HOTEL AGRAHA JAKARTA,Jl. Bandengan Selatan No. 20 RT. 0011/05,Agus Harianto,PT. Risul Graha,021 108,021 108,H Bintang 2,28-10-14
+HOTEL  N1,Jl. KS. Tubun No. 3 RT.002/01,Nariman,PT. Hotel Royal Valindo,021 53653909,021 53653908,H Bintang 2,28-10-14
+PRIMA INDAH II,Jl. Mangga Besar Raya No. 144,"Drs. Fachrurrazi, SH",PT. Anugerah Sentosa Prima,021 108,021 108,H Bintang 2,15-11-14
+CLAY HOTEL,Jl. Blora No. 20 RT. 002/06,Ir. Yudha Bhakti,PT. Citra Putra Realty,021 31996275,021 31996275,H Bintang 2,19-11-14
+MARCOPOLO,Jl. Teuku Cik Ditiro No. 19,"Benny Rambe, SH",,021 31926679,021 3207138,H Bintang 2,19-11-14
+BUSINESS HOTEL,Jl. Kota Bumi No. 1,Arifin Siman,PT. Bestland Nusantara,021 2310312,021 3446883,H Bintang 2,29-11-14
+BUSINESS HOTEL,Jl. Setiabudi Timur Blok B Persil No. 17 RT. 09/03,Arifin Siman,PT. Best Maju Makmur,021 2310312,021 3446883,H Bintang 2,29-11-14
+PATRA JASA JAKARTA HOTEL,Jl. Jend.  Ahmad Yani No. 2 RT. 003/04,Agus Santoso,PT. Patra Jasa,021 4240608,021 3100432,H Bintang 2,10-12-14
+ARTOTEL JAKARTA - THAMRIN,Jl. Sunda No. 3,Erastus Pramudita Radjimin,PT. Altar Filadelfia,021 31925888,021 31925999,H Bintang 2,11-12-14
+HOTEL GRAND CITY,Jl. Pal Putih No. 197 A,Nicky Lion,PT. Sri Varita Utama,021 3146161,021 3146161,H Bintang 2,20-12-14
+IBIS KEMAYORAN,Jl. Bungur Besar Raya No. 79-81,Kang Jacob Antung,PT. Asia Wisata Promosindo,021 4210111,021 4211458,H Bintang 2,20-12-14
+HOTEL N3,Jl. KH. Zainul Arifin No. 57 RT. 001/03,Nariman,PT. Hotel Gitano Selaras,021 53653908,021 53653910,H Bintang 2,30-12-14
+CITY ICON RESIDENCE,Jl. Mangga Besar Raya No. 98,Boy Christian Indra,,021 6398508,021 6399475,H Bintang 2,31-12-14
+BALAIRUNG,Jl. Matraman Raya No. 19 RT. 02/001,Irsyal Ismail,PT. Balairung Citrajaya Sumbar,021 85917217,021 85917216,H Bintang 2,06-01-15
+AMBHARA,Jl. Iskandarsyah II No. 1,Ahmad Dipoditiro,PT. Ambhara Tharuna,021 2700800,021 7200702,H Bintang 2,06-01-15
+HOLIDAY INN EXPRESS,Jl. Tanjung Karang No. 1 RT. 010/020,Andreas Halim,PT. Solusi Multimedia Indonesia,021 57933722,021 57933714,H Bintang 2,15-01-15
+HOTEL ASTON,Jl. Raya Kamal Outering Road Blok C-01 No. 18,Haryanto Limin Loamayer,PT. Graha Indah Mandiri,021 55957648,021 55957648,H Bintang 2,21-01-15
+DOUBLE TREE BY HILTON,Jl. Pegangsaan Timur No. 17,Rudiyanto Limantara,PT. Nurtirta Nusa Lestari,021 3500622,021 3500627,H Bintang 2,24-01-15
+COIN'S,Jl. Sunter Agung Utara Raya Blok A No. 5 B,Carol Korompis,PT. Coins Hotel Indonesia,021 65836691,021 65836692,H Bintang 2,25-01-15
+THE RITZ CARLTON,Jl. DR. Ide Agung Gde Agung Kav. E No. 1,Tan Kian,PT. Mutiara Permata Mulia,021 25518888,021 25518889,H Bintang 2,03-02-15
+JW. MARRIOTT HOTEL,"Jl. DR. Ide Anak Agung Gde Agung Kav. E 1,2 No.",Tan Kian,PT. Permata Birama Sakti,021 5798888,021 5798883,H Bintang 2,04-02-15
+HOTEL SANTIKA PREMIERE JAKARTA,Jl. Aipda KS. Tubun No. 7,Dhaniel Heru Prabowo,PT. Grahawita Santika,021 5361777,021 5483457,H Bintang 2,04-02-15
+"PRIME BIZ HOTEL @GROGOL, JAKARTA",Jl. Daan Mogot No. 52,Lie Peter Leeansyah,PT. Angke Makmur Sejahtera                          ,021 6343030,021 108,H Bintang 2,04-02-15
+MEGA MATRA,Jl. Matraman Raya No. 115,Rachman Santoso,PT. Arthagemilang Pratama Selaras,021 8566355,021 8566337,H Bintang 2,04-02-15
+POP! HOTEL KEMANG,Jl. Kemang Raya No. 3,Ryan Adrian,PT. Hotel Kemang Realty,021 5220568,021 5207931,H Bintang 2,06-02-15
+LUMINOR TENDEAN 88,Jl. Kapten Tendean No. 10,Yohan Solihin Hartana,,021 108,021 108,H Bintang 2,06-02-15
+IBIS,Jl. Letjen. MT. Haryono No. 9,Sebastian Harno Budi,PT. Superior Coach,021 8004968,021 8004969,H Bintang 2,11-02-15
+MERCURE JAKARTA KOTA,Jl. Hayam Wuruk No. 123,Sukowati Sosrodjojo,PT. Adhi Putra Mulia,021 6248680,021 6008441,H Bintang 2,15-02-15
+PECENONGAN CITY,Jl. Ceylon No. 19,Etty Latifah Aljufri,PT. Pecenongan City Hotel,021 3853583,021 3855757,H Bintang 2,22-02-15
+IBIS BUDGET,Jl. HOS Cokroaminoto No. 79,L. Erfurt Chandra Putra Asali,PT. Jakarta Setiabudi Internasional Tbk,021 3918007,021 3918007,H Bintang 2,25-02-15
+SANTIKA TAMAN MINI INDONESIA INDAH,Jl. Pintu Masuk I TMII Indonesia Indah,Benny Halim,PT. Grawita Indonesia Indah,021 29378500,021 29378600,H Bintang 2,25-02-15
+ANGKASA,Jl. Sultan Hamengkubuwono IX KM. 25 RT. 001/00,Trisno Soehardi,PT. Wisata Angkasa Permai,021 46825890,021 46826791,H Bintang 2,27-02-15
+BEST WESTERN PREMIERE THE HIVE,Jl. DI. Panjaitan Kav. 3-4,"Ir. Budi Saddewa Soediro, MM., IR ",PT. Wika Realty,021 8192808,021 8590750,H Bintang 2,27-02-15
+PURI MEGA,Jl. Rawamangun No. 59,Bambang Siswanto,PT. Setralcipta Propertindo,021 4214744,021 4246562,H Bintang 2,04-03-15
+THE GROVE SUITES BY GRAND ASTON,Komp. Rasuna Epicentrum Jl. HR. Rasuna Said,Agustinus Wawan Dwi Guratno,PT. Bakrie Swasakti Utama,021 32154894,021 3215248,H Bintang 2,12-03-15
+HOTEL FAVE,Jl.Kembangan Abadi Utama/Jl.Kembangan Abadi,Emir Zarry,PT. Duta Wahana Gemilang,021 58305537,021 108,H Bintang 2,17-03-15
+MORRISSEY,Jl. KH. Wahid Hasyim No. 70,Widijoso Sianandar,PT. Icon Menara Samudera,021 29933333,021 29933333,H Bintang 2,25-03-15
+C' ONE HOTEL & PLAZA,Jl. Letjend Suprapto No. 62,"Drs. Idris Sasmita, MM ",PT. Jakarta Tourisindo,021 108,021 108,H Bintang 2,26-03-15
+EMPORIUM BOUTIQUE HOTEL,Jl. Pecenongan No. 29,Dedy Sutandy,PT. Kandaga Asrigraha,021 38458563,021 38458563,H Bintang 2,26-03-15
+TUGU ASRI,Jl. Jatibaru No. 7-9,Lina Asmahan Abdullah,PT. Hotel Tugu Asri,021 326292,021 3804300,H Bintang 2,27-03-15
+ALL SEASONS,Jl. KH. Zainul Arifin No. 5 & 7 RT.002/001,Ie Ie Kurniawan,PT. Loka Asri,021 6385611,021 63856565,H Bintang 2,27-03-15
+PONDOK PUTRI DUYUNG,Jl. Lodan Timur No. 7,Ir. Gatot Setyowaluyo,PT. Taman Impian Jaya Ancol,021 2601680,021 2601691,H Bintang 2,08-04-15
+SANNO JAKARTA AIRPORT HOTEL,Jl. Pluit Raya Selatan No. 2,Yulia Herlina,PT. Jadore Darmawangsa Raya,021 6606060,021 6604944,H Bintang 2,10-04-15
+SHANGRI-LA,Jl. Jend. Sudirman Kav. I Karet Tengsin,Yussuf,PT. Swadharma Kerry Satya,021 5707440,021 5703530,H Bintang 2,12-04-15
+BLUE SKY SMART HOTEL,Jl. AIPDA KS. Tubun No. 19 RT. 005/006,Linan Kurniahu,PT. Cahaya Bintang Fortuna,021 29509999,021 29509998,H Bintang 2,15-04-15
+MIRAH,Jl. Gunung Sahari XII/18,Atam Sentjaja,PT. Beringin Selaras Graha,021 6598250,021 6598255,H Bintang 2,15-04-15
+NEO MELAWAI,Jl. Panglima Polim Raya No. 15,Listiawati Halim,PT. Isihombing,021 29661400,021 29661388,H Bintang 2,15-04-15
+HOTEL KING CROSS,Jl. Boulevard Bukit Gading Raya Kokan Blok E,Rudy Susanto,PT. Graha Kertajaya,021 4517353,021 4517353,H Bintang 2,19-05-15
+MILLE'S,Lokasari Plaza Lt. 4 Jl. Mangga Besar Raya No. 81,Setiadi Kumala,PT. Hanggar Mega Musik,021 6255318,021 6254704,H Bintang 2,25-04-15
+HOTEL GRAND TJOKRO,Jl. Daan Mogot No. 63,Thomas Harsoyo,PT. Karya Cipta Hotelindo,021 5660229,021 108,H Bintang 2,06-05-15
+THE FALATEHAN HOTEL,Jl. Falatehan Raya No. 26,Saiful Arifin,PT. Arifindo Graha Pratama,021 7202021,021 7201212,H Bintang 2,13-05-15
+FORTUNE,Plaza 3 Pondok Indah Blok F No.1-4 Jl.TB.Simatu,Yogi Idham Fauzi,PT. Fortune Pondok Indah,021 108,021 108,H Bintang 2,16-05-15
+B FASHION HOTEL,Jl. Aranda No. 1,Wedji Hartono Pandojo,PT. Tumbuh Sukses Makmur,021 108,021 108,H Bintang 2,17-05-15
+IBIS STYLE HOTEL MANGGA DUA SQUARE-,"Mangga Dua Square 2nd Floor, P2 Jl. Gunung Sah",Ariesman Widjaja,PT. Kreasi Cipta Utama,021 108,021 108,H Bintang 2,19-05-15
+M. STAR,Jl. Gunung Sahari Raya No. 2,Rocky Sonfonda Matheus,Indik Koperasi TNI Angkatan Laut,021 64715263,021 64715322,H Bintang 2,20-05-15
+IBIS,Cawang Commercial Estate Jl. Letjend MT. Haryon,Sebastianus Harno Budi,PT. Superior Coach,021 8004968,021 8004969,H Bintang 2,21-05-15
+THE MEDIA HOTEL & TOWERS ,Jl. Gunung Sahari Raya No. 3  ,Nasrul Darisin,PT. Grahasahari Suryajaya,021 6263011,021 6263001,H Bintang 2,22-05-15
+SANTIKA KELAPA GADING, Jl. Raya Kelapa Nias Blok. HF 3 Sport Mall  ,Andy Widjanarko,PT. Sima Graha Utama,021 57853855,021 57853857,H Bintang 2,23-05-15
+GRAN MAHAKAM,Jl. Mahakam I No. 6 RT. 001/07  ,Imam Wahyu ,PT. Mahakam Ekagraha,021 7252011,021 7209966,H Bintang 2,28-05-15
+FAVE HOTEL LTC GLODOK,Gd. LTC Glodok Jl. Hayam Wuruk No. 127   ,Siaw Tjen Rustanto,PT. Sukses Gemilang Nusantara,021 6592449,021 6287889,H Bintang 2,31-05-15
+RAFFLES, Ciputra World 1 Jl. Prof. Dr. Satrio Kav. 3-5  ,Ir. Artadinata Djangkar ,PT. Ciputra Adigraha,021 29888181,021 29888080,H Bintang 2,10-06-15
+PENINSULA HOTEL,Jl. Mangga Besar Raya No. 60 P ,Gunawan Latief ,T. Peninsula Karya Jaya,021 6593749,021 3518127,H Bintang 2,16-06-15
+WIJAYA GANGNAM,Komp. Wijaya Graha Puri Blok F No. 20 Jl. Wijaya ,Vransiy Munita ,PT. Ysj Maju Global ,021 108 ,021 108 ,H Bintang 2,16-06-15
+CLASSIC,Jl. H. Samanhudi No. 43-45 ,Rudy Susanto ,PT. Buana Mitra Usaha ,021 3852001,021 6260368,H Bintang 2,17-06-15
+PULAU AYER,Pulau Air Besar ,Rudy Susanto ,PT. Global Ekabuana ,021 108 ,021 108 ,H Bintang 2,
+FM.1 BOUTIQUE,Jl. Let. Jend S. Parman Raya Kav. 8,Samsudin,PT. Seriatama Slipi Indah,021 5633333,021 5633580,H Bintang 2,17-06-15
+MERCURE HOTEL,Jl. RA. Kartini/Jl. TB. Simatupang,Abby Ernest,PT. Karya Propertindo Investama,021 75915262,021 75918270,H Bintang 2,18-06-15
+TRAVEL,Jl. Mangga Besar VIII No. 21,Foronkid Gunawan,PT. Seriatama Indoreka,021 6212721,021 6293810,H Bintang 2,18-06-15
+ORCHARDZ P. JAYAKARTA,Jl. P. Jayakarta Blok 44/7-8,Juanda,PT. Gaya Wahana Inti,021 6287888,021 6289558,H Bintang 2,20-06-15
+OTEL SENTRAL,Jl. Pramuka Raya Kav. 63-64,R. Imba Kusumah,PT. Prajasarana Ciptamulia,021 4225511,021 4213839,H Bintang 2,20-06-15
+O R C H A R D Z,Jl. Industri Raya No. 8,Drs. Sugiarto Hardjo,PT. Kapuas Cemerlang Maju,021 62317788,021 62317788,H Bintang 2,20-06-15
+HOTEL PULLMAN JAKARTA CENTRAL PARK,Podomoro City Jl. Letjen S. Parman Kav. 28,Veriyanto Setiady,PT. Central Pesona Palace,021 56988888,021 56985070,H Bintang 2,21-06-15
+MTR 2,Jl. Boulevard Bukit Gading Raya 18,Denny Herawan Susanto,,021 4533621,021 108,H Bintang 2,24-06-15
+ALL SEASONS THAMRIN HOTEL,Jl. Talang Betutu No. 02 / Jl. Tanjung Karang No. 0,Otto Putihrai,PT. Setia Meranti,021 108,021 108,H Bintang 2,24-06-15
+FORTUNE,Jl. KH. Mas Mansyur No. 13,Yogi Idham Fauzi,PT. Comfort Nusantara,021 56960598,021 56960598,H Bintang 2,25-06-15
+JAYAKARTA HOTEL,Jl. Hayam Wuruk No. 126,Kristian Pudjiadi,PT. Pudjiadi and Sons Tbk,021 6496760,021 6293000,H Bintang 2,28-06-15
+COMFORT,Jl. Latumenten No. 50,Yogi Idham Fauzi,PT. Comfort Nusantara,021 56960198,021 56960198,H Bintang 2,28-06-15
+NOVOTEL MANGGA DUA SQUARE,Jl. Gunung Sahari Raya No. 1,Ariesman Widjaja,PT. Kreasi Cipta Utama,021 62312800,021 62312800,H Bintang 2,28-06-15
+MEGA,Jl. Proklamasi No. 40,Sujana,PT. Mega Jaya Adisempurna,021 3923131,021 3152173,H Bintang 2,02-07-15
+GOLDEN BOUTIQUE,Jl. Angkasa No. 1 Gunung Sahari Utara,Rachmat Arifin,PT. Batara Tabaraka,021 6263001,021 6265736,H Bintang 2,02-07-15
+MEGA CIKINI,Jl. Cikini Raya No. 62-64,Sujana,PT. Citrapuri Bhumicikini,021 3140883,021 3140701,H Bintang 2,02-07-15
+DISCOVERY HOTEL & CONVENTION ANCOL,Jl. Lodan Timur Raya No. 07,Jeffry Chandra,PT. Marina Ancol Green Hotel,021 6453456,021 6452986,H Bintang 2,08-07-15
+CIPTA II,Jl. Mampang Prapatan No. 1 A,Dra. Anny L Bernardus,PT. Kreasi Megah Cipta Sarana,021 798685,021 7989685,H Bintang 2,09-07-15
+HOTEL MILLENNIUM SIRIH JAKARTA,Jl. H. Fachrudin No. 3,Ronnie Frans,PT. Millennium Sirih Jakarta Hotel,021 2303636,021 2303636,H Bintang 2,09-07-15
+GRAND MELIA JAKARTA,Jl. HR. Rasuna Said Kav. X-O No. 1-4,Johannes Suriadjaja,PT. Suryalaya Anindita International,021 5268080,021 5268181,H Bintang 2,09-07-15
+LUMIRE HOTEL,Jl. Senen  Raya 135,"Herman S Silalahi, SE",PT. Segitiga Plaza Hotel,021 3442828,021 3442929,H Bintang 2,09-07-15
+MAHARANI,Jl. Warung Buncit Raya No. 8,Join Virgo Amir,PT. Tuanku Laras Batipuh,021 79183855,021 79183833,H Bintang 2,09-07-15
+MAHARADJA,Jl. Kap. Pierre Tendean No. 1 RT. 005/001,Join Virgo Amir,PT. Purosati Ekatama,021 79180044,021 7995290,H Bintang 2,09-07-15
+ILLIGAL'S,Jl. Hayam Wuruk No. 108,Khoe Yam Kusuma,PT. Sumber Sejahtera Sempurna,021 6298899,021 6298899,H Bintang 2,10-07-15
+VERANDA,Jl. Kyai Maja No. 63,Ir. Hadi Kusuma Christanto,PT. Graha Pakubuwono Kusuma,021 108,021 108,H Bintang 2,15-07-15
+TEMATIK HOTEL,Jl. Raya Jembatan Tiga No. 35,Wedji Hartono P,PT. Tumbuh Sehat Makmur,021 66690366,021 66690566,H Bintang 2,17-07-15
+KOSENDA,Jl. KH. Wahid Hasyim No. 127,Husin,PT. Benika Prima Loka,021 72797979,021 108,H Bintang 2,18-07-15
+SWISS-BEL HOTEL MANGGA BESAR,Jl. Kartini Raya No. 57 RT. 003/002,Hartono,PT. Internusa Jaya Semesta,021 62200888,021 6256970,H Bintang 2,26-07-15
+LE GRANDEUR,Jl. Mangga Dua Raya,Subagjo Hidayat,PT. Sinar Wisata Lestari,021 6428811,021 6128822,H Bintang 2,26-07-15
+KRISTAL (LE-CRISTAL),Jl. Raya Tarogong Kav. 17,Nyotowijoyo,PT. Metropolitan Linggajaya,021 7507050,021 7507110,H Bintang 2,26-07-15
+SAHATI HOTEL,Jl. Taman Margasatwa No. 45,Henry Al Azwar,PT. Hotel Sahati,021 78837907,021 78837905,H Bintang 2,26-07-15
+HOTEL ARYADUTA SEMANGGI,Jl. Garnisun dalam No. 8,Heri Krisdiyarto,PT. Sanggraha Nusa Raya,021 2515151,021 2514090,H Bintang 2,29-07-15
+IBIS TAMARIN,Jl. KH. Wahid Hasyim No. 77,Drs. T. Bachrumsjah Hamzah,PT. Tamarindo Nusa Hotel,021 3912323,021 3157707,H Bintang 2,29-07-15
+PARDEDE INTERNATIONAL,Jl. Raden Saleh I No. 9-11,Jhonny Pardede,PT. Jhonny Pardede,021 3146270,021 323868,H Bintang 2,31-07-15
+ARION SWISS-BELHOTEL KEMANG,Jl. Kemang Raya No. 7,Febert Hotma Hutagalung,PT. Beringin Floratama Megah,021 7198000,021 7190088,H Bintang 2,31-07-15
+THE AKMANI SUITE HOTEL,Jl. KH. Wahid Hasyim No. 91,Juslina Djaja,PT. Akmanindo Parma,021 31905335,021 31900079,H Bintang 2,12-08-15
+GRAND CEMPAKA,Jl. Letjen Suprapto No. 27,"Drs. Idris Sasmita, MM ",PT. Jakarta Tourisindo,021 4260066,021 4260055,H Bintang 2,28-08-15
+ASTON PRIORITY SIMATUPANG,Jl. TB. Simatupang Kav. 9,Kadafi Yahya,PT. Nusa Pratama Property,021 78838777,021 78839777,H Bintang 2,29-08-15
+IBIS MANGGA DUA,Jl. Pangerang Jayakarta/Jl. Gatep RT.003/06,Wiyandi The,PT. Pacific Corponusa,021 6250505,021 6250505,H Bintang 2,05-09-15
+FASHION,Jl. Gunung Sahari XII No.2,Wedji Hartono Pandojo,PT. Tumbuh Sehat Makmur,021 6490808,021 6490808,H Bintang 2,06-09-15
+MERLYNN PARK HOTEL,Jl. KH. Hasyim Ashari No. 29-31,Luhur Wibowo Hidayat,PT. Merlynn Park Hotel,021 30026888,021 30026888,H Bintang 2,09-09-15
+PARK HOTEL,Jl. D.I Panjaitan Kav. 5-7,Sinurlinda Gustina M,PT. Pembangunan Perumahan (Perser,021 29982000,021 29982005,H Bintang 2,09-09-15
+FORTUNE,Jl. Wijaya II Komp Graha Puri Blok F.21,Yogi Idham Fauzi,PT. Jakarta Entertainment,021 7208868,021 7208868,H Bintang 2,09-09-15
+COMFORT,Plaza Kelapa Gading Blok B-86-95 Jl. Raya Boulev,Yogi Idham Fauzi,PT. Jakarta Entertainment,021 45859140,021 45859140,H Bintang 2,12-09-15
+CIPUTRA,Jl. Letjend S. Parman,Candra Ciputra,PT. Ciputra Sentra,021 5660640,021 5661172,H Bintang 2,13-09-15
+IBIS BUDGET,Jl. Cikini Raya No. 75,"Andi Sofyan., SH",PT. Hotel Cikini Realty,021 108,021 108,H Bintang 2,17-09-15
+CONDOTEL GOLDEN SKY,Jl. Taman Pluit Kencana No. 48,Fredie Tan,PT. Golden Sky Indonesia,021 6610610,021 6610610,H Bintang 2,17-09-15
+CIPTA HOTEL PANCORAN,Jl. Raya Pasar Minggu No. 19,Dra. Anny L. Bernardus,PT. Multikreasi Ciptasarana,021 108,021 108,H Bintang 2,17-09-15
+TWIN PLAZA,Jl. Letjen S. Parman Kav. 93-94,Hendra Lie,PT. Slipi Sri Indopuri,021 56960888,021 5690777,H Bintang 2,17-09-15
+SUMO,Jl. Boulevard Barat No. 1,Rudy Susanto,PT. Graha Makmur Berjaya,021 108,021 108,H Bintang 2,19-09-15
+SURYA BARU,Jl. Batu Ceper No. 11 A,Tuty Suryani Budiman,PT. Wisataria Surya Kencana,021 3811108,021 3861878,H Bintang 2,19-09-15
+MALIOBORO,Jl. Gajah Mada No. 13/H,Rudy Susanto,PT. Global Arta Berjaya,021 63850000,021 6347524,H Bintang 2,26-09-15
+GRAND ASIA,Jl. Bandengan Selatan No. 88,Sumarno,PT. Megah Asia,021 66606969,021 66607007,H Bintang 2,26-09-15
+SPARKS HOTEL JAKARTA,Jl. Mangga Besar Raya No. 44,Rulli Maulana Muchidin,PT. Sumbermitra Asri Hotel,021 6252534,021 6299049,H Bintang 2,26-09-15
+MULIA SENAYAN,Jl. Asia Afrika No. 1,Suryati Benniardi,PT. Mulia Intan Lestari,021 5747777,021 5747885,H Bintang 2,26-09-15
+IBIS KEMANG,Jl. Bangka Raya RT. 002/07,Emelia Tasani,PT. Kemang Suar Artha,021 108,021 108,H Bintang 2,29-09-15
+1001 ENTERTAINMENT CLUB,Jl. Kunir No. 7,Stanilaus Raymer Jacob,PT. Perkasa Tunggal Mandiri,021 6907575,021 6912546,H Bintang 2,30-09-15
+NOVOTEL GAJAH MADA,Jl. Gajah Mada No. 188,Charles Honoris,PT. Mitra Mutiara Makmur,021 108,021 108,H Bintang 2,04-10-15
+BINTANG GRIYAWISATA,Jl. Raden Saleh No. 16 RT. 01/010,Hartono Tosin,PT. Bintang Wisata Mandiri,021 3922562,021 3922577,H Bintang 2,10-10-15
+T-HOTEL,Jl. Ciputat Raya No. 11 RT.009/008,Teguh Susanto,PT. Teguh Prima,021 29500988,021 29500989,H Bintang 2,16-10-15
+SURYA,Jl. Batu Ceper 44-46,Tuty Suryani Budiman,CV. Hotel Surya,021 3808442,021 3861878,H Bintang 2,18-10-15
+KAISAR,Jl. PLN. Duren Tiga No. 1,Ir. Jang Achir Judi,PT. Doa Restu Sejahtera,021 79183601,021 79183602,H Bintang 2,28-10-15
+GRAND MERCURE,Jl. Hayam Wuruk No. 36-37,"Baharja Halim,MBA",PT. Halim Bangun Sarana Indah,021 3453777,021 3453777,H Bintang 2,28-10-15
+HOTEL FAVE,Jl. Gading Indah Raya No. 8 Blok C/32,Irawan Ambiadi Suwandi,PT. Miagata Anugrah Abadi,021 108,021 108,H Bintang 2,31-10-15
+ROYAL KUNINGAN HOTEL,Jl. Kuningan Persada Kav. 2,"Jan Semesta, MBA",PT. Berlian Semesta Prima,021 108,021 108,H Bintang 2,04-11-15
+REDTOP,Jl. Pecenongan No. 72,Winda Trihanny,PT. Sanggraha Dhika,021 3500077,021 3500055,H Bintang 2,04-11-15
+HOTEL 88,Jl. Dr. Susilo Raya C-1 Perum ,FX. Tommy Setiawan,PT. Hotel Internasio  CV. Citra Indonesia,021 6122600,021 108,H Bintang 2,07-11-15
+POP ! HOTEL KELAPA GADING,Jl. Kelapa Gading Boulevard / Jl. Raya Mandiri Uta  ,Johanes Mardjuki,PT. Summarecon Hotelindo,021 3465201,021 108,H Bintang 2,07-11-15
+BOROBUDUR JAKARTA,Jl. Lapangan Banteng Selatan No. 1,Yusuf Indradewa SH,PT. Jakarta International Hotels & Devel,021 3805555,021 3809595,H Bintang 2,12-11-15
+GRAND KEMANG HOTEL,Jl. Kemang Raya No. 2H RT. 014/01,"Rosan Perkasa MBA., MA ",PT. Kemang Jaya Raya,021 7194121,021 7194131,H Bintang 2,14-11-15
+KAWANUA AEROTEL,Jl. Cempaka Putih Timur XXIV No. 10,Alex M. T. Maneklaran,PT. Aero Wisata,021 4248768,021 4242397,H Bintang 2,14-11-15
+FAIRMONT JAKARTA,Jl. Asia Afrika No. 8,Shuichi Oishi,PT. Senayan Trikarya Sempana,021 5723456,021 57900111,H Bintang 2,17-11-15
+MENTENG I,Jl. Rp. Soeroso No. 28,Sujana,PT. Menteng Sarana Wisata,021 325543,021 3144151,H Bintang 2,19-11-15
+FAVE HOTEL PGC,Jl. Mayjen Sutoyo No. 76 / Jl. Dewi Sartika RT. 001,IR. Wahyu Dewanto,PT. Wahana Cipta Sentosa,021 80884545,021 80876600,H Bintang 2,19-11-15
+HOTEL AMOS COZY,Jl. Melawai Raya No. 84-85,Dra. Khoe Ribka,PT. Indosemar Muliakarya,021 72801367,021 72801367,H Bintang 2,20-11-15
+MEGAH INTERNASIONAL,Jl. Bungur Besar Raya No. 31,Ong Mie Kia,CV. Hotel Megah Internasional,021 4259781,021 4259780,H Bintang 2,21-11-15
+MANDARIN ORIENTAL JAKARTA,Jl. MH. Thamrin RT. 001/02,Maximilian Von Reden,PT. Jaya Mandarin Agung,021 39838888,021 5263922,H Bintang 2,26-11-15
+BEST WESTERN HOTEL & RESIDENCE,Jl. Mangga Dua Abdad 111,Iwanto Hartojo,PT. Mandiri Karya Cipta Indah,021 57932003,021 57931969,H Bintang 2,26-11-15
+SRIWIJAYA HOTEL,Jl. Veteran No. 1,Haykel Aldjufrie,PT. Graha Sriwijaya Hotel,021 3440409,021 3446543,H Bintang 2,26-11-15
+GRAND WHIZ,Jl. Bukit Gading Raya Kav. I,Intan Nurcahya,PT. Madya Lingkar Artha,021 7397028,021 7250503,H Bintang 2,26-11-15
+SUN CITY,Jl. Hayam Wuruk No. 127,Andy Waspy,PT. Prima Cipta Sentosa,021 62201900,021 62201697,H Bintang 2,26-11-15
+HOTEL PURI JAYA,Jl. Percetakan Negara V/5,Bambang Siswanto,PT. Sulaiman Maharaja Diraja,021 4215320,021 4215322,H Bintang 2,26-11-15
+HOLIDAY INN EXPRESS JIEXPO,Jl. Kawasan PRJ Kemayoran,Karuna Murdaya,PT. Hotel Jiexpo,021 26645000,021 26645352,H Bintang 2,27-11-15
+HOTEL FAVE,Jl. KH. Samanhudi No. 26 RT. 005/003,Abujadi Hartawan,PT. Wisana Matrakarya,021 108,021 108,H Bintang 2,29-11-15
+BUNGA-BUNGA,Jl. Antara No. 13,Poli Hidayat,PT. Cipta Bunga Sakti,021 34832026,021 34832026,H Bintang 2,29-11-15
+BANYUWANGI SINTERA,Jl. H. Samanhudi 32 B-34,Ali Hasan,PT. Banyuwangi Sintera,021 3857551,021 3808581,H Bintang 2,29-11-15
+HOLIDAY INN JAKARTA KEMAYORAN,Kompleks Rukan Puri Mutiara Blok D No. 107-108,Albert Cahyadi Sukandadinata,PT. Nusaplaza International Hotel,021 29568800,021 29560088,H Bintang 2,29-11-15
+NEW TOWN,Komplek THR Lokasari B/1-18,Suwiman,PT. Graha Indo Sejahtera,021 108,021 108,H Bintang 2,04-12-15
+DIRADJA HOTEL,Jl. Kapten P. Tendean No. 38 Rt. 003/005,Join Virgo Amir,PT. Puro Sembilan Sejahtera,021 79197405,021 79197405,H Bintang 2,09-12-15
+HARRIS,Jl. DR. Sahardjo No. 191,Agoes Soelistyo Santoso,PT. Java Paradise Island,021 8305633,021 8305633,H Bintang 2,10-12-15
+BUMI KARSA,Jl. Jend. Gatot Subroto 71-73,Budi Sasongko,PT. Hotel Bumikarsa Bidakara,021 83793554,021 837935529,H Bintang 2,10-12-15
+ROYAL REGAL,Jl. Mangga Besar Raya VIII No. 27,Ny. V. Sri Sudarsih,PT. Wira Wisata Indah,021 6260868,021 6260868,H Bintang 2,10-12-15
+ROYAL,Jl. Ir. H. Juanda No. 14,Naif Abdullah,PT. Royal Hotel,021 3804301,021 3804300,H Bintang 2,10-12-15
+PRIMA INDAH,Jl. Gunung Sahari Raya No. 19/21,"Drs. Fachrurrazi, SH",PT. Anugerah Sentosa Prima,021 6591078,021 6246348,H Bintang 2,10-12-15
+MANHATTAN HOTEL,Jl. Prof. DR. Satrio - Casablanca Kuningan,Maya Ramchand,PT. Merlynn Park Hotel,021 30040888,021 30040889,H Bintang 2,10-12-15
+MAX ONE HOTELS.COM @ Sabang,Jl. KH. Agus Salim No. 24,Julius Octavianus Ruslan,PT. Batavia Land,021 3166888,021 3922157,H Bintang 2,10-12-15
+DANAU SUNTER,Jl. Danau Permai Raya Blok C.1,Maya Ramchand,PT. Sunter Lakeside Hotel,021 6509969,021 6509970,H Bintang 2,11-12-15
+CROWNE PLAZA JAKARTA,Jl. Jend. Gatot Subroto Kav. 2&3,H. RF. Gunawan Martakoesoemah,PT. Prabu Budi Mulia,021 5268833,021 5263832,H Bintang 2,11-12-15
+WHIZ HOTEL,Jl. Cikini Raya No. 6,Moedjianto Soesilo Tjahjono,PT. Estrella Lima Indonesia,021 3989555,021 39830448,H Bintang 2,11-12-15
+C' ONE HOTEL CEMPAKA PUTIH,Jl. Letjen Suprapto,"Idris Sasmita, MM",PT. Jakarta Tourisindo,021 4250126,021 4213051,H Bintang 2,11-12-15
+WHIZ,Ruko INKOPAL Jl. Boulevard Barat B/18,Rudy Susanto,PT. Dunia Entertainment,021 48858864,021 45858822,H Bintang 2,12-12-15
+BETAWI SOFYAN,Jl. Cut Mutiah No. 9,Bagus Moeshari,PT. Sofyan Hotel Tbk,021 3905011,021 3902747,H Bintang 2,15-12-15
+TRINITI JAKARTA,Jl. Pembangunan III/4-6,Henry The,PT. Bintang Triniti Nusantara,021 633111,021 63867171,H Bintang 2,15-12-15
+PITAGIRI,Jl. Palmerah Barat No. 110,Tjahja Widjaja,PT. Pitagiri Raya Sejahtera,021 5359359,021 5359359,H Bintang 2,20-12-15
+TEBET SOFYAN,"Jl. Prof. DR. Soepomo, SH No. 23",Bagus Moeshari,PT. Sofyan Hotels Tbk,021 8295691,021 8307495,H Bintang 2,20-12-15
+FAVE HOTEL,Jl. Kemang I No. 6 RT. 011/011,Drs. H. Dalyono Nimpuno,PT. Griya Upajiwana,021 108,021 108,H Bintang 2,20-12-15
+GRAND HYATT JAKARTA,Jl. MH. Thamrin Kav. 28-30 RT.001/002,J. Arnes Lukman,PT. Plaza Indonesia Realty Tbk,021 3901234,021 3809900,H Bintang 2,20-12-15
+D' HOTEL,Jl. Sultan Agung No. 09 RT.004/001,Darmawan,PT. Pesona Putra Manggala,021 108,021 108,H Bintang 2,24-12-15
+THE ACACIA JAKARTA,Jl. Kramat Raya No. 73-81,Hendro Sumampow,PT. Guntur Madu Tama,021 3903030,021 3903388,H Bintang 2,24-12-15
+LE MERIDIEN JAKARTA,Jl. Jend. Sudirman Kav. 18 - 20,R. Kurniawati Probosutedjo,PT. Wisata Triloka Buana,021 2513131,021 5711378,H Bintang 2,24-12-15
+DE RIVIER,Jl. Kalibesar Barat 44-46,Drs. Fuad Djapar,PT. Wahana Andamari,021 6904118,021 6912894,H Bintang 2,30-12-15
+HOTEL SARE,Jl. Sultan Hasanuddin No. 46 RT. 003/01,Bagantara,PT. Grha Adya Nusantara,021 7250531,021 108,H Bintang 2,30-12-15
+HOTEL TYLER,Jl. KH. Wahid Hasyim No. 70,Widijoso Sianandar,PT Icon Menara Samudra,021 108,021 108,H Bintang 2,31-12-15
+BEST WESTERN GRAND PALACE KEMAYORAN HOTEL,Jl. Benyamin Sueb A.5,Wahjono,PT Global Pertama Sehatera,021 65860555,021 6580550,H Bintang 2,31-12-15
+MERCURE CONVENTION CENTER ANCOL JAKARTA,Jl. Pantai Indah Komp. TIJA,"Andi Sofyan., SH",PT Metropolitan Realty Internasional,021 6406000,021 6406123,H Bintang 2,31-12-15
+TREVA INTERNATIONAL,Jl. Menteng Raya No. 33,"Dr. H. Muslim, SH., MBA",PT. Gharmapala Putra Utama,021 31900240,021 31900241,H Bintang 3,21-01-14
+THE MANSION,Kawasan Mega Kuningan Jl. Mega Kuningan Timu,Amin Maulana,PT. Sendico Wiguna Lestari,021 53668360,021 53651895,H Bintang 3,18-04-14
+GRAND PARAGON,Jl. Gajah Mada No. 126,Theressia,PT. Gajah Mada Square,021 6258822,021 6252111,H Bintang 3,03-06-14
+GOLDEN BOUTIQUE MELAWAI,Jl. Melawai VIII No. 6-8,Rachmat Arifin,PT. Jade Global Development,021 7234555,021 7234555,H Bintang 3,28-06-14
+HOTEL GRIYA ADAMAR,Jl. TB. Simatupang RT. 011/004,Drs. H. Dalyono Nimpuno,PT. Griya Adamar,021 29529042,021 29529042,H Bintang 3,04-09-14
+SAVVOYA MENTENG HOTEL,Menteng Square Tower C Jl. Matraman Raya No. 3 ,PT. Bahama Triple Eleven,Paramita Putri Diyanti,021 108,021 108,H Bintang 3,28-10-14
+MARCOPOLO,Jl. Teuku Cik Ditiro No. 19,"Benny Rambe, SH",,021 31926679,021 3207138,H Bintang 3,19-11-14
+PATRA JASA JAKARTA HOTEL,Jl. Jend.  Ahmad Yani No. 2 RT. 003/04,Agus Santoso,PT. Patra Jasa,021 4240608,021 3100432,H Bintang 3,10-12-14
+HOTEL GRAND CITY,Jl. Pal Putih No. 197 A,Nicky Lion,PT. Sri Varita Utama,021 3146161,021 3146161,H Bintang 3,20-12-14
+IBIS KEMAYORAN,Jl. Bungur Besar Raya No. 79-81,Kang Jacob Antung,PT. Asia Wisata Promosindo,021 4210111,021 4211458,H Bintang 3,20-12-14
+SANTIKA TAMAN MINI INDONESIA INDAH,Jl. Pintu Masuk I TMII Indonesia Indah,Benny Halim,PT. Grawita Indonesia Indah,021 29378500,021 29378600,H Bintang 3,25-02-15
+EMPORIUM BOUTIQUE HOTEL,Jl. Pecenongan No. 29,Dedy Sutandy,PT. Kandaga Asrigraha,021 38458563,021 38458563,H Bintang 3,26-03-15
+PONDOK PUTRI DUYUNG,Jl. Lodan Timur No. 7,Ir. Gatot Setyowaluyo,PT. Taman Impian Jaya Ancol,021 2601680,021 2601691,H Bintang 3,08-04-15
+SANNO JAKARTA AIRPORT HOTEL,Jl. Pluit Raya Selatan No. 2,Yulia Herlina,PT. Jadore Darmawangsa Raya,021 6606060,021 6604944,H Bintang 3,08-04-15
+FM.1 BOUTIQUE,Jl. Let. Jend S. Parman Raya Kav. 8,Samsudin,PT. Seriatama Slipi Indah,021 5633333,021 5633580,H Bintang 3,17-06-15
+O R C H A R D Z,Jl. Industri Raya No. 8,Drs. Sugiarto Hardjo,PT. Kapuas Cemerlang Maju,021 62317788,021 62317788,H Bintang 3,20-06-15
+ORCHARDZ P. JAYAKARTA,Jl. P. Jayakarta Blok 44/7-8,Juanda,PT. Gaya Wahana Inti,021 6287888,021 6289558,H Bintang 3,20-06-15
+HOTEL SENTRAL,Jl. Pramuka Raya Kav. 63-64,R. Imba Kusumah,PT. Prajasarana Ciptamulia,021 4225511,021 4213839,H Bintang 3,20-06-15
+CIPTA II,Jl. Mampang Prapatan No. 1 A,Dra. Anny L Bernardus,PT. Kreasi Megah Cipta Sarana,021 798685,021 7989685,H Bintang 3,09-07-15
+IBIS TAMARIN,Jl. KH. Wahid Hasyim No. 77,Drs. T. Bachrumsjah Hamzah,PT. Tamarindo Nusa Hotel,021 3912323,021 3157707,H Bintang 3,29-07-15
+PARDEDE INTERNATIONAL,Jl. Raden Saleh I No. 9-11,Jhonny Pardede,PT. Jhonny Pardede,021 3146270,021 323868,H Bintang 3,31-07-15
+IBIS MANGGA DUA,Jl. Pangerang Jayakarta/Jl. Gatep RT.003/06,Wiyandi The,PT. Pacific Corponusa,021 6250505,021 6250505,H Bintang 3,05-09-15
+AMBHARA,Jl. Iskandarsyah II No. 1,Ahmad Dipoditiro,PT. Ambhara Tharuna,021 2700800,021 7200702,H Bintang 4,06-01-15
+HOTEL SANTIKA PREMIERE JAKARTA,Jl. Aipda KS. Tubun No. 7,Dhaniel Heru Prabowo,PT. Grahawita Santika,021 5361777,021 5483457,H Bintang 4,04-02-15
+MERCURE JAKARTA KOTA,Jl. Hayam Wuruk No. 123,Sukowati Sosrodjojo,PT. Adhi Putra Mulia,021 6248680,021 6008441,H Bintang 4,15-02-15
+BEST WESTERN PREMIERE THE HIVE,Jl. DI. Panjaitan Kav. 3-4,"Ir. Budi Saddewa Soediro, MM., IR ",PT. Wika Realty,021 8192808,021 8590750,H Bintang 4,27-02-15
+PULAU AYER,Pulau Air Besar,Rudy Susanto,PT. Global Ekabuana,021 3518127,021 108,H Bintang 4,17-06-15
+CLASSIC,Jl. H. Samanhudi No. 43-45,Rudy Susanto,PT. Buana Mitra Usaha,021 3852000,021 3852001,H Bintang 4,17-06-15
+MERCURE HOTEL,Jl. RA. Kartini/Jl. TB. Simatupang,Abby Ernest,PT. Karya Propertindo Investama,021 75915262,021 75918270,H Bintang 4,18-06-15
+JAYAKARTA HOTEL,Jl. Hayam Wuruk No. 126,Kristian Pudjiadi,PT. Pudjiadi and Sons Tbk,021 6496760,021 6293000,H Bintang 4,28-06-15
+GOLDEN BOUTIQUE,Jl. Angkasa No. 1 Gunung Sahari Utara,Rachmat Arifin,PT. Batara Tabaraka,021 6263001,021 6265736,H Bintang 4,02-07-15
+DISCOVERY HOTEL & CONVENTION ANCOL,Jl. Lodan Timur Raya No. 07,Jeffry Chandra,PT. Marina Ancol Green Hotel,021 6453456,021 6452986,H Bintang 4,08-07-15
+HOTEL MILLENNIUM SIRIH JAKARTA,Jl. H. Fachrudin No. 3,Ronnie Frans,PT. Millennium Sirih Jakarta Hotel,021 2303636,021 2303636,H Bintang 4,09-07-15
+LUMIRE HOTEL,Jl. Senen  Raya 135,"Herman S Silalahi, SE ",PT. Segitiga Plaza Hotel,021 3442828,021 3442929,H Bintang 4,09-07-15
+LE GRANDEUR,Jl. Mangga Dua Raya,Subagjo Hidayat,PT. Segitiga Plaza Hotel,021 6428811,021 6128822,H Bintang 4,       26/07/2015
+GRAND CEMPAKA,Jl. Letjen Suprapto No. 27,"Drs. Idris Sasmita, MM ",PT. Sinar Wisata Lestari,021 4260066,021 4260055,H Bintang 4,28-08-15
+CIPUTRA,Jl. Letjend S. Parman,Candra Ciputra,PT. Jakarta Tourisindo,021 5660640,021 5661172,H Bintang 4,13-09-15
+TWIN PLAZA,Jl. Letjen S. Parman Kav. 93-94,Hendra Lie,PT. Ciputra Sentra,021 56960888,021 5690777,H Bintang 4,17-09-15
+GRAND MERCURE,Jl. Hayam Wuruk No. 36-37,"Baharja Halim,MBA",PT. Slipi Sri Indopuri,021 3453777,021 3453777,H Bintang 4,28-10-15
+REDTOP,Jl. Pecenongan No. 72,Winda Trihanny,PT. Halim Bangun Sarana Indah,021 3500077,021 3500055,H Bintang 4,04-11-15
+HOTEL AMOS COZY,Jl. Melawai Raya No. 84-85,Dra. Khoe Ribka,PT. Sanggraha Dhika,021 72801367,021 72801367,H Bintang 4,20-11-15
+GRAND WHIZ,Jl. Bukit Gading Raya Kav. I,Intan Nurcahya,PT. Indosemar Muliakarya,021 7397028,021 7250503,H Bintang 4,26-11-15
+BEST WESTERN HOTEL & RESIDENCE,Jl. Mangga Dua Abdad 111,Iwanto Hartojo,PT. Madya Lingkar Artha,021 57932003,021 57931969,H Bintang 4,26-11-15
+BUMI KARSA,Jl. Jend. Gatot Subroto 71-73,Budi Sasongko,PT. Mandiri Karya Cipta Indah,021 83793554,021 837935529,H Bintang 4,10-12-15
+DANAU SUNTER,Jl. Danau Permai Raya Blok C.1,Maya Ramchand,PT. Hotel Bumikarsa Bidakara,021 6509969,021 6509970,H Bintang 4,11-12-15
+THE ACACIA JAKARTA,Jl. Kramat Raya No. 73-81,Hendro Sumampow,PT. Guntur Madu Tama,021 3903030,021 3903388,H Bintang 4,24-12-15
+DE RIVIER,Jl. Kalibesar Barat 44-46,Drs. Fuad Djapar,PT. Wahana Andamari,021 6904118,021 6912894,H Bintang 4,30-12-15
+MERCURE CONVENTION CENTER ANCOL JAKARTA,Jl. Pantai Indah Komp. TIJA,"Andi Sofjan, SH",PT. Metropolitan Realty International,021 6406000,021 6406123,H Bintang 4,31-12-15
+ATLET CENTURY PARK,Jl. Pintu Satu  Senayan,Nobertus Raharjo Mulyono,PT. Lingga Hamparan Krida,021 5712041,021 5712191,H Bintang 4,25-03-16
+HOTEL SARI PAN PACIFIC,Jl. MH. Thamrin No. 6,Ir. Teddy Suratmadji,PT. Sariarthamas Hotel International,021 2301170,021 3156692,H Bintang 4,26-03-16
+ALILA,Jl. Pecenongan Kav. 7-17,Donny Tjahyadikarta,PT. Sumbermitra Wisatagraha,021 2316008,021 2316007,H Bintang 4,20-05-16
+HOTEL 88,Jl. Kapten Tendean No. 10 RT. 002/001,Yohan Solihin Hartana,PT. Galih Nusa,021 108,021 108,H Bintang 4,01-06-16
+TRAVELLERS HOTEL JAKARTA,Jl. Pangeran Jayakarta No. 70,Subakir,PT. Bait Damai Abadi,021 6019864,021 6019876,H Bintang 4,26-07-16
+INTERCONTINENTAL MID PLAZA JAKARTA,Jl. Kebembem RT. 015/06,Husin Suhaidi Teng,PT. Prima Adhitama International Devel,021 5700599,021 5734555,H Bintang 4,29-07-16
+HOLIDAY INN EXPRESS CIKINI,Jl. Cikini Raya No. 66,,PT. Imesco Sejahtera Utama,021 108,021 108,H Bintang 4,05-08-16
+SHERATON JAKARTA GANDARIA CITY HOTEL,"Mall Gandaria City, Jl. Sultan Iskandar Muda",,PT. Artisan Wahyu,021 108,021 108,H Bintang 4,14-08-10
+KARTIKA CHANDRA,Jl. Jend. Gatot Subroto Kav. 17-20,Miana Dwi Lasmini,PT. Kartika Chandra,021 5207829,021 5223523,H Bintang 4,04-09-16
+HOTEL SANTIKA PREMIERE HAYAM WURUK,Jl. Hayam Wuruk No. 122 RT.004/RW.006,,PT. Grahawita Santika,021 108,021 108,H Bintang 4,06-10-13
+SWISS BEL-INN SIMATUPANG JAKARTA,Jl. RA. Kartini No. 32 RT.007/RW.07,,PT. Graha Simatupang Propertindo,021 108,021 108,H Bintang 4,09-10-15
+THE DHARMAWANGSA,Jl. Brawidjaya Raya No. 39,Indrarto Kartohadiprodjo,PT. Puri Dharmawangsa Raya Hotel,021 7258151,021 7258383,H Bintang 5,12-06-14
+DOUBLE TREE BY HILTON,Jl. Pegangsaan Timur No. 17,Rudiyanto Limantara,PT. Nurtirta Nusa Lestari,021 3500622,021 3500627,H Bintang 5,24-01-15
+THE RITZ CARLTON,Jl. DR. Ide Agung Gde Agung Kav. E No. 1,Tan Kian,PT. Mutiara Permata Mulia,021 25518888,021 25518889,H Bintang 5,03-02-15
+JW. MARRIOTT HOTEL,"Jl. DR. Ide Anak Agung Gde Agung Kav. E 1,2 No.",Tan Kian,PT. Permata Birama Sakti,021 5798888,021 5798883,H Bintang 5,03-02-15
+SHANGRI-LA,Jl. Jend. Sudirman Kav. I Karet Tengsin,Yussuf,PT. Swadharma Kerry Satya,021 5707440,021 5703530,H Bintang 5,12-04-15
+THE MEDIA HOTEL & TOWERS,Jl. Gunung Sahari Raya No. 3,Nasrul Darisin,PT. Grahasahari Suryajaya,021 6263001,021 6263011,H Bintang 5,22-05-15
+GRAN MAHAKAM,Jl. Mahakam I No. 6 RT. 001/07,Imam Wahyu,PT. Mahakam Ekagraha,021 7209966,021 7252011,H Bintang 5,28-05-15
+HOTEL PULLMAN JAKARTA CENTRAL PARK,Podomoro City Jl. Letjen S. Parman Kav. 28,Veriyanto Setiady,PT. Central Pesona Palace,021 56988888,021 56985070,H Bintang 5,21-06-15
+NOVOTEL MANGGA DUA SQUARE,Jl. Gunung Sahari Raya No. 1,Ariesman Widjaja,PT. Kreasi Cipta Utama,021 62312800,021 62312800,H Bintang 5,28-06-15
+GRAND MELIA JAKARTA,Jl. HR. Rasuna Said Kav. X-O No. 1-4,Johannes Suriadjaja,PT. Suryalaya Anindita International,021 5268080,021 5268181,H Bintang 5,09-07-15
+HOTEL ARYADUTA SEMANGGI,Jl. Garnisun dalam No. 8,Heri Krisdiyarto,PT. Sanggraha Nusa Raya,021 2515151,021 2514090,H Bintang 5,29-07-15
+MERLYNN PARK HOTEL,Jl. KH. Hasyim Ashari No. 29-31,Luhur Wibowo Hidayat,PT. Merlynn Park Hotel,021 30026888,021 30026888,H Bintang 5,09-09-15
+MULIA SENAYAN,Jl. Asia Afrika No. 1,Suryati Benniardi,PT. Mulia Intan Lestari,021 5747777,021 5747885,H Bintang 5,26-09-15
+BOROBUDUR JAKARTA,Jl. Lapangan Banteng Selatan No. 1,Yusuf Indradewa SH,PT. Jakarta International Hotels & Devel,021 3805555,021 3809595,H Bintang 5,12-11-15
+FAIRMONT JAKARTA,Jl. Asia Afrika No. 8,Shuichi Oishi,PT. Senayan Trikarya Sempana,021 5723456,021 57900111,H Bintang 5,17-11-15
+MANDARIN ORIENTAL JAKARTA,Jl. MH. Thamrin RT. 001/02,Maximilian Von Reden,PT. Jaya Mandarin Agung,021 39838888,021 5263922,H Bintang 5,26-11-15
+MANHATTAN HOTEL,Jl. Prof. DR. Satrio - Casablanca Kuningan,Maya Ramchand,PT. Merlynn Park Hotel,021 30040888,021 30040889,H Bintang 5,10-12-15
+CROWNE PLAZA JAKARTA,Jl. Jend. Gatot Subroto Kav. 2&3,H. RF. Gunawan Martakoesoemah,PT. Prabu Budi Mulia,021 5268833,021 5263832,H Bintang 5,11-12-15
+GRAND HYATT JAKARTA,Jl. MH. Thamrin Kav. 28-30 RT.001/002,J. Arnes Lukman,PT. Plaza Indonesia Realty Tbk,021 3901234,021 3809900,H Bintang 5,20-12-15
+LE MERIDIEN JAKARTA,Jl. Jend. Sudirman Kav. 18 - 20,R. Kurniawati Probosutedjo,PT. Wisata Triloka Buana,021 2513131,021 5711378,H Bintang 5,24-12-15
+JS LUWANSA HOTEL,Gd. PP H. Usmar Ismail Jl. HR. Rasuna Said Kav.,Jacob Soetoyo,PT. Gesit Sarana Perkasa,021 5277344,021 5277343,H Bintang 5,11-01-16
+HOTEL ARYADUTA JAKARTA,Jl. Prapatan 44-48,Jessy Quantero,PT. Lippo Karawaci Tbk,021 3858770,021 3858765,H Bintang 5,08-02-16
+PULLMAN JAKARTA INDONESIA,Jl. MH. Thamrin No. 59,"Angela Meilany Basireon, SH",PT. Wisma Nusantara Internasional,021 31923650,021 3143631,H Bintang 5,28-03-16
+THE SULTAN HOTEL,Jl. Jend. Gatot Subroto,Drs. Subijanto,PT. Indobuildco,021 5703600,021 5733091,H Bintang 5,05-04-16
+HOTEL GRAND MERCURE KEMAYORAN,Jl. H. Benyamin Suev Kav. B6 Kota Baru Bandar K,,PT. Megah Mitra Sukses,021 108,021 108,H Bintang 5,26-05-16
+THE PARK LANE JAKARTA,Jl. Casablanca Kav. 18,Lim Irianto,PT. Staco Graha,021 8282000,021 8282222,H Bintang 5,30-09-16
+TUGU BATAVIA,"Jl. Kali Besar Barat No. 26,28,29,30,31,32,33",Anhar Setjadibrata,PT. Toegoe Respati,021 8113130,021 3160488,Hotel Melati,19-02-14
+RYO HOTEL,Jl. Gereja Ayam No. 14,Lifi Sadikin,PT. Interalia Hotelindo,021 108,021 108,Hotel Melati,25-03-14
+ZODIAK GEMINI MT. HARYONO,Jl. Otista Raya No. 60 RT. 004/012,Susanto,PT. Serenity Sarana Prima,021 78840133,021 78836452,Hotel Melati,08-04-14
+F HOTEL,Jl. Panglima Polim No. 101 RT. 001/005,Muhammad Fitno,,021 108,021 108,Hotel Melati,08-04-14
+OAKTREE HOTEL,Jl. Sampit V No. 03,Agnes Juniper Husada,PT. Roindo Makmur Lestari,021 72780801,021 72780805,Hotel Melati,18-04-14
+GRIYA TAMAN PURING,Jl. Gandaria Tengah I No. 24,"Ir. Cahyanie Handari, SH",,021 108,021 108,Hotel Melati,07-05-14
+RYOKAN,Jl. Pangeran Antasari RT. 05/09 No. 33,Djojo Hartono,,021 108,021 108,Hotel Melati,28-05-14
+HOTEL LUMINOR 88,"Jl. Pecenongan No. 33, 35, 37 D, 37 EF",Fransiskus Xaverius Tommy Setiawan,PT. Pecenongan Prima Pratama,021 108,021 108,Hotel Melati,17-06-14
+WISMA GKM,Jl. Kapten Tendean No. 9 RT. 005/003,Ir. Bakhri Effendi,,021 108,021 108,Hotel Melati,17-06-14
+PERMATA,Jl. Sukarjo Wiryopranoto No. 5,Wijaya Mulia,PT. Maju Mandala Sakti,021 6288989,021 6288989,Hotel Melati,22-07-14
+MANIKAM HOTEL,Jl. Bendungan Hilir Raya No. 76,ST. Dermaga Nusa Rangkuti,PT. Manikam Mutiara,021 70710211,021 7253853,Hotel Melati,04-09-14
+MARGOT,Jl. Jaksa No.15/C,Halomoan Tambunan,PT. Margot Lestari,021 3913830,021 3913830,Hotel Melati,16-10-14
+EXPRESS INN,Jl. Pinangsia Timur No. 68,Henry Lesmana,PT. Alam Lestari Jaya,021 6263007,021 6908128,Hotel Melati,18-10-14
+HOTEL MOVEN FATMAWATI,Jl. RS. Fatmawati No. 2 Rt/Rw 004/05,Hendra Susanto,PT. Sigma Perkasa Hotelindo,021 108,021 108,Hotel Melati,24-12-14
+W I N,Jl. Panglima Polim No. 99,Indra Suyono,PT. Win Hotel Indonesia,021 7258228,021 7268333,Hotel Melati,30-12-14
+LAUTZE INDAH,Jl. Lautze No. 24,Lim Thian Long,PT. Hotel Lautze Indah,021 6258333,021 6241607,Hotel Melati,17-01-15
+ASRI,Jl. Ciputat Raya No. 1,Lambertus Tauk,PT. Candilaras Aris Bintang,021 7690925,021 108,Hotel Melati,20-01-15
+AMARIS,Jl. Prof. Dr. Soepomo SH No. 33 RT. 012/003,Erwin Solihin Hartana,PT. Pancha Dana Damai Sejahtera,021 108,021 108,Hotel Melati,22-01-15
+CEMPAKA SARI,Jl. Letjen Suprapto No. 11,H. Iman S. Bastian,H. Iman S. Bastian,021 4204030,021 4208794,Hotel Melati,25-01-15
+HARAPAN JAYA,Jl. Kramat Pulo Dlm No. 1/B .77,Hj. Lies Hamidah,Hj. Lies Hamidah,021 3909330,021 3909330,Hotel Melati,28-01-15
+BUSINESS HOTEL,Jl. Tomang Raya No. 51,Arifin Siman,PT. Maju Indah Makmur,021 77771111,021 77771112,Hotel Melati,29-01-15
+PONDOK WISATA INDAH,Jl. Kemang Selatan VIII/C.3,Ny. Mardiah. M,,021 71791587,021 108,Hotel Melati,03-02-15
+SEHAT,Jl. Mangga Besar Raya No. 117,Dedy Kurniawan,PT. Hutama Sehat Makmur,021 6280638,021 108,Hotel Melati,03-02-15
+WISMA PERMAI,Jl. Lautze No. 50 A,Sjamsoedin,,021 6282522,021 6241533,Hotel Melati,03-02-15
+FAREL,Jl. Gunung Sahari II No.1,IR. William Siahaan,PT. Lintas Farel Aruan Internasional,021 42801334,021 42801334,Hotel Melati,04-02-15
+PERMATA INDAH,Jl. Taman Permata Indah II Kamp.Gusti,Chaidir Yunus,PT. Pondok Permata Indah Permai,021 66600777,021 66604565,Hotel Melati,08-02-15
+CEMPAKA JAYA COTTAGE,Jl. Raya Pelumpang No. 6,"Drs. Idris Sasmita, MM",PT. Jakarta Tourisindo,021 4302136,021 4302137,Hotel Melati,08-02-15
+678 JAYA SENTOSA,Jl. DI Panjaitan Lingkar Cawang No. 1B,"Nia Yulicha Kurniasih, SE",PT. Enam Tujuh Delapan Jaya Sentos,021 36736669,021 36736669,Hotel Melati,08-02-15
+LOSARI,Jl. KH. Hasyim Ashari No. 4141A,"Arwan Tjahjadi, IR",PT. Losari Beach Makasar,021 6322515,021 6322515,Hotel Melati,12-02-15
+AMARIS,Jl. Raya Pasar Minggu No. 15 A,"Ir. Danny Budiarto, MBA",PT. Andalusia Andrawina,021 51400366,021 51400365,Hotel Melati,13-02-15
+AMARIS,Jl. Gunung Sahari Raya No. 1,Ariesman Widjaja,PT. Kreasi Cipta Utama,021 62318888,021 62318899,Hotel Melati,15-02-15
+AMARIS,Jl. Mangga Besar Raya No. 7911,Ronny Rambitan,PT. Lusipara Rejeki,021 6262908,021 6262907,Hotel Melati,18-02-15
+FOKUS,Jl. Kebon Kacang I No. 9,Osmar Onggoputra,,021 3902944,021 3902944,Hotel Melati,18-02-15
+NEW IDOLA,Jl. Pramuka Raya No. 26,Yuneva LS,Yuneva LS,021 8503232,021 8503232,Hotel Melati,22-02-15
+FAVE HOTEL,"Jl. Melawai IV No. 3,5.7,9 & 11",Agus Pranonto,PT. Graha Cardo Sejati Indonesia,021 108,021 108,Hotel Melati,28-02-15
+AMARIS,Jl. TB. Simatupang RT/RW 001/002,ANDY WIDJANARKO,PT. Griya Multi Investama,021 108,021 108,Hotel Melati,04-03-15
+GADING INDAH,Jl. Pegangsaan Dua No. 10,Advent Bangun,PT. Adus Arto,021 4604285,021 4604285,Hotel Melati,04-03-15
+PURI MEGA EXTENTION,Jl. Percetakan Negara VII No. 11,Bambang Siswanto,PT. Sentralcipta Propertindo,021 4259204,021 4259204,Hotel Melati,04-03-15
+AMARIS,Gd. Thamrin City Lt. 6 & 6A Blok HT No. 01  Jl. K,Indra Wijaya,PT. Central Indah Palace,021 3929966,021 3907592,Hotel Melati,13-03-15
+CALIFORNIA,Jl. Mangga Besar Raya No. 100 BC RT. 002/010,Jefri Tobing,PT. Californian Inti Persada,021 6120555,021 62303450,Hotel Melati,22-03-15
+ILHAM,Jl. Kalibaru Timur IV/39,H.Abu Syufian Zulkifli,,021 4258566,021 4258566,Hotel Melati,26-03-15
+LABU INDAH,Jl. Labu No. 4951  Mabes Barat,Lim Haruman Halim,,021 6009250,021 6009253,Hotel Melati,26-03-15
+MENARA PONDOK INDAH,Jl. Metro Pondok Indah Sektor  II Blok. SA,Johannes Peddy Wongsowidjojo,PT. Pondok Indah Tower,021 7500382,021 7500382,Hotel Melati,27-03-15
+ALAMANDA,Jl. Aipda KS. Tubun No. 47,Dr. Azis Mashabi,ALAMANDA,021 5709210,021 5702713,Hotel Melati,01-04-15
+d' ARCICI HOTEL,Jl. Sunter Permai Raya No. 1 A,"Drs. Idris Sasmita, MM",PT. Jakarta Tourisindo,021 6519960,021 6518704,Hotel Melati,05-04-15
+HOTEL ATT,"Jl. T. Bagus Angke, Kp. Gusti No. 1",Erics Phie,PT. Anugrah Tahta Tri Tunggal,021 6681679,021 6681679,Hotel Melati,10-04-15
+TEBET RAYA,Jl. Tebet Raya No. 23,Jang Achir Judi,,021 8298738,021 8298738,Hotel Melati,12-04-15
+RADEN,Jl. Raden Saleh No. 24,Jan Semesta,,021 3158842,021 3158842,Hotel Melati,12-04-15
+CIPTA,Jl. KH. Wahid Hasyim No. 53,IR. Hayanis AS,PT. Yudha Ciptasarana,021 3904701,021 31626531,Hotel Melati,12-04-15
+AMARIS HOTEL GROGOL,Jl. Dr. Susilo Raya No. 4 RT. 001/03,Andre Kusuma,PT. Dian Mitra Cemerlang,021 108,021 108,Hotel Melati,15-04-15
+LYNT HOTEL,Jl. Cideng Timur No. 35 RT.06/06,Tommy Lybianto,PT. Triartha Langgeng Utama,021 63870011,021 6385115,Hotel Melati,15-04-15
+TUNE HOTELS,Jl. Samanhudi No. 25,Mark Michael Reinecke,PT. Red Planet Hotels Indonesia,021 29498800,021 29498889,Hotel Melati,21-04-15
+PHARMIN,Jl. Jatibaru No. 35,H. Rusman A. Muthalib,,021 31924751,021 3160935,Hotel Melati,28-04-15
+AMARIS,Jl. Kramat Raya No. 35,Shinta Djaya,PT. Talu Graha Stesa,021 45850861,021 45850862,Hotel Melati,13-05-15
+RAJA RESIDENCE,Jl. Raya Kebayoran Lama No. 12 C,"R. Doddy Sularso Bangun, SH",CV. Raja Residence,021 72795113,021 108,Hotel Melati,19-05-15
+JEMBATAN LIMA,Jl. Jembatan Lima No. 162,Muliati,,021 6262389,021 6262389,Hotel Melati,20-05-15
+HARCO MANGGA DUA PLAZA,Jl. Mangga Dua Raya No. 2223,Tan Huseng Tanzil,PT. Jatibaru Lestari,021 3905209,021 3905209,Hotel Melati,20-05-15
+HOTEL ZURI EXPRESS MANGGA DUA,Jl. Mangga Dua Dalam No. 5556,Diaz Kurniawan,PT. Zuri Hotel Manajemen,021 22620008,021 22620009,Hotel Melati,21-05-15
+ANTARA,Jl. Antara No. 39 RT. 007/01,Wijaya Mulia,,021 3503403,021 3511155,Hotel Melati,22-05-15
+HOTEL 23,Jl. Kapuk Raya No. 23,Freddy Santoso,PT. Matahari Dewata,021 54377195,021 6191438,Hotel Melati,24-05-15
+HOTEL MENTENG,Jl. Gondangdia Enclek No. 28,Indra Teja Kamarudin,PT. Menteng Sarana Wisata,021 31925208,021 325543,Hotel Melati,28-05-15
+FOFIC SUITE HOTEL,Jl. Tongkol No. 23,Abidin Kusuma,,021 108,021 108,Hotel Melati,30-05-15
+CAPITOL,Jl. Toko Tiga Seberang 27,Tjiptaady Widjaja,,021 6296864,021 6295920,Hotel Melati,30-05-15
+AMARIS,Jl. Prof. Dr. Satrio Blok C.4 Kav. 11,Kusumo Adhi Wardoyo,PT. Graha Satrio Utama,021 108,021 108,Hotel Melati,31-05-15
+ISTANA BUNGUR,Jl. Bungur Besar  XII No. 2,Tedjo Setiawan,PT. Istana Bungur,021 4225116,021 4225116,Hotel Melati,03-06-15
+TCL 1,Jl. Terusan Bandengan Utara 89.L,Tjiu Sing Khen,,021 6613589,021 6613589,Hotel Melati,12-06-15
+TCL 2,Jl. Terusan Bandengan Utara 91.C,Tjiu Sing Khean,,021 6624880,021 66695335,Hotel Melati,12-06-15
+PENTHOUSE,Jl. Mangga Besar IV No. 23,Joeng Handoyo,,021 108,021 108,Hotel Melati,12-06-15
+OZONE HOTEL,Jl. Pantai Indah Utara III PIK,Fitria Yusuf,PT. Ozone Fifefa Internasional,021 29673664,021 29673665,Hotel Melati,13-06-15
+HOTEL 88,Jl. Mangga Besar Raya No. 120,Fransiskus Xaverius Tommy Setiawan,PT. Citrabangun Nusapermai,021 108,021 108,Hotel Melati,17-06-15
+MUSTIKA,Jl. Kemurnian VI No. 194,Zheng Zhi Yu,PT. Hotel Mustika,021 6335808,021 108,Hotel Melati,18-06-15
+THE BnB HOTEL,Gedung Graha Auto Center Jl. Boulevard Bukit G,Ariesman Widjaja,PT. Sentral Agung Indah,021 45848877,021 45848877,Hotel Melati,24-06-15
+KEBON KOSONG,Jl. Kebon Kosong Raya No. 8,dr. Agus Budiman Lubis,,021 108,021 108,Hotel Melati,25-06-15
+FORTUNA,Jl. Pancoran No. 42,Lie Kie Tong,PT. Ultra Kreasi Utama,021 6907459,021 6294594,Hotel Melati,25-06-15
+BUDI,Jl. Kebon Kosong XII No. 152,Dr. Agus Budiman Lubis,,021 108,021 108,Hotel Melati,28-06-15
+HOTEL KEPU SELATAN,Jl. Kepu Selatan No. 17 RT. 003/03,dr. Agus Budiman Lubis,,021 4257606,021 4257606,Hotel Melati,28-06-15
+UTAN PANJANG KEMAYORAN,Jl. Kalibaru Timur VI No. 22 RT. 002/008,dr. Agus Budiman Lubis,,021 4212527,021 4212527,Hotel Melati,28-06-15
+PERMATA INDAH.2,Taman Permata Indah 2 Jl. Kampung Gusti Blok,Chaidir Yunus,PT. Pondok Permata Indahpermai,021 66600777,021 66600777,Hotel Melati,28-06-15
+BUNGUR SERASI,Jl. Kalibaru Timur VI No. 72,dr. Agus Budiman Lubis,,021 4259083,021 4259083,Hotel Melati,02-07-15
+JATI,Jl. Jati Baru  No. 13,Donny Reza Reinaldy,,021 31927211,021 31927211,Hotel Melati,03-07-15
+D'PRIMAHOTEL,"Jl. Gunung Sahari Raya Blok. A No. 1,2,3,26 & 27",Frans Wantono,PT. Primahotel Manajemen Indonesia,021 99831179,021 108,Hotel Melati,04-07-15
+BI. EXECUTIVE HOTEL,Jl. RE. Martadinata No. 2,M. Achyani Bin Sabihun,PT. Cahaya Bina Makmur,021 6411475,021 6411370,Hotel Melati,09-07-15
+AMARIS,Seasons City Lt. 23 Pusat Bisnis Jl. Latumenten,Andy Widjanarko,PT. Grha Dinamika Sukses,021 29071033,021 29071226,Hotel Melati,09-07-15
+FORTUNA II,Jl. Pintu Besar Selatan No. 69,Lie Kwok Siong,PT. Fajar Fortuna Kencana,021 6313411,021 6313412,Hotel Melati,09-07-15
+PANCORAN JAYA,Jl. Pancoran Raya No. 38,Drs. Dewa Putu Sudhi,,021 63856278,021 63856277,Hotel Melati,12-07-15
+WORLD,Jl. Bandengan Selatan No. 14 RT. 008/005,Sumarno,CV. Dunia Baru,021 29620888,021 29620889,Hotel Melati,15-07-15
+HOTEL BALISTA,Jl. Pintu Air V No. 49,Yong Julia,PT. Cendana Tunggal Mulia,021 3455173,021 3511267,Hotel Melati,17-07-15
+HOTEL TCL,Jl. Teluk Gong No. 41,Tjiu Sing Khean,,021 6680664,021 66095335,Hotel Melati,17-07-15
+TRANS MANGGA DUA,Jl. Mangga Dua Raya No.22,Susana Kosasih,PT. Trans Mangga Dua Megah,021 6906428,021 6906428,Hotel Melati,19-07-15
+KAFILA,Jl. Sukarjo Wiryopranoto 45 AB,Suhaimi Hasan,PT. Sinar Sumatera,021 6261047,021 6261047,Hotel Melati,26-07-15
+WISMA TANJUNG DUREN RESIDENCE,Jl. Tanjung Duren Utara III F No. 48,Soesanto Leo,,021 108,021 108,Hotel Melati,29-07-15
+NEW  MG,Jl. Mangga Besar Raya No. 38 AS,Eman,PT. Pondok Mangga Besar,021 6592949,021 6012688,Hotel Melati,31-07-15
+CIPONDO,Jl. Kramat Jaya No. 911,Zeppy Sutjipto,,021 108,021 108,Hotel Melati,31-07-15
+AMARIS,Jl. IR. H. Juanda No. 3,"Mimie Jumiati,SH",PT. Graha Kasih Sejahtera,021 3458733,021 3458732,Hotel Melati,31-07-15
+SHALOM,Jl. Kramat Pulo No. 18/A,"Ir. Paul Retika, MSC",,021 3155274,021 3155274,Hotel Melati,12-08-15
+PERMAI,Jl. Mangga Besar Raya No. 24,Sherly,PT. Sugindo Impressa Permai,021 6282520,021 6241533,Hotel Melati,12-08-15
+G7 HOTEL,Jl. KH. Samanhudi No. 47,Abujadi Hartawan,,021 108,021 108,Hotel Melati,29-08-15
+PURI KWITANG,Jl. Kramat Kwitang 1 No. 11 A,Tedy Samsuri,CV. Hotel Puri Kwitang,021 3927688,021 3927688,Hotel Melati,29-08-15
+ZULIA CIPULIR,Jl. H.  Syatirih RT.002 Ulujami,Zsul Akhyar B.H Bustaman,,021 5864072,021 79183602,Hotel Melati,29-08-15
+ARUNI,Jl. RE. Martadinata No. 10,Rudi Setiawan,PT. Nurcahaya Budimakmur,021 6917053,021 6917053,Hotel Melati,03-09-15
+HOTEL FAVE,Jl. KH. Wahid Hasyim No. 135,Ir. Iwan S Susantyo,PT. Robina Putra Perkasa,021 3929838,021 3929838,Hotel Melati,05-09-15
+HOTEL CABIN,Jl. Yos Sudarso Kav. 8788,Hanadi Sunjoto,PT. Kartika Jaya Abadi,021 5677923,021 5672295,Hotel Melati,05-09-15
+TAMANSARI,Jl. Tamansari VI No. 14 B RT. 009/07,H. Iman S. Bastian,H. Iman S. Bastian,021 6290273,021 6290273,Hotel Melati,09-09-15
+PINANGSIA,Jl. Pinangsia I No. 55,Henry Lesmana,PT. Sumber Berkah Sakti,021 6246478,021 6244726,Hotel Melati,12-09-15
+MY HOTEL,Jl. Hayam Wuruk No. 127 A,Johnson Putra Lawadinata,PT. Gracelil Mulia Abadi,021 6291818,021 6291818,Hotel Melati,17-09-15
+7 DAYS HOTEL,Jl. Gajah Mada 196/Jl. Kemurnian IV,Tjoa Seng Tian,PT. Tujuh Hari Group,021 62306301,021 108,Hotel Melati,17-09-15
+AMARIS,Jl. Panglima Polim Raya No. 101 Blok N/III RT. 0,Andy Widjanarko,PT. Graha Multi Utama,021 108,021 108,Hotel Melati,22-09-15
+AMARIS,Jl. Panglima Polim Raya No. 4,Lilik Oetomo,PT. Amaris International,021 7267111,021 7267555,Hotel Melati,26-09-15
+BIG HOTEL,Jl. Kartini Raya 64 No. 2,Timmy Yuwono,PT. Wijaya Energi Semesta,021 6000500,021 62318480,Hotel Melati,26-09-15
+HOTEL 88,Jl. Mangga Besar No. 62,FX Tommy Setiawan,PT. Bangun Cipta Jaya Abadi,021 108,021 108,Hotel Melati,30-09-15
+HOTEL 88,Jl. Mangga Besar VIII RT. 008/01 No. 10 D,FX Tommy Setiawan,PT. Waringin Buana Citra Realty,021 108,021 108,Hotel Melati,30-09-15
+NEW MANGGA BESAR,Jl. Mangga Besar Raya No. 68 BC,"Gregorious, SN. Marsam",PT. Wahana Warna Wisata,021 6391010,021 6391515,Hotel Melati,30-09-15
+FEODORA HOTEL,"Jl. Dr. Susilo Raya No. 113 .A,B,C (C8) RT.001/0",Henry Salim,PT. Adidaya Sakti Perkasa,021 5684465,021 5684465,Hotel Melati,11-10-15
+BELVENA,Jl. Mangga Besar Raya V No. 49,Henry Salim,PT. Adidaya Sakti Perkasa,021 6263566,021 6264266,Hotel Melati,11-10-15
+HOTEL FEODORA,Jl. Mangga Besar IV No. 18,Khuswari,PT. Feodora Hotel,021 62203686,021 62201151,Hotel Melati,11-10-15
+ROXY ROYAL,"Jl. Supiori No. 33A, 55A5B",Thio Suzana Martha,,021 6316153,021 6316153,Hotel Melati,16-10-15
+HOTEL GANI,Jl. KS. Tubun Raya no.9,Hartono Widjaja,,021 5712375,021 5712375,Hotel Melati,16-10-15
+SMART HOTEL,Jl. Tanjung Karang No. 2,Arifin Siman,PT. Best Harvest Nusantara,021 3500123,021 3446883,Hotel Melati,18-10-15
+AGUSTA CENGKARENG,Jl. Kamal Raya Ling.Luar Barat No. 1,Agus Muchsin,CV. Agusta Jakarta,021 5453132,021 5453129,Hotel Melati,18-10-15
+AMARIS LA CODEFIN KEMANG,Jl. Kemang Raya No. 8,Andreas Halim,PT. Codefin,021 5260260,021 526028,Hotel Melati,20-10-15
+CITI M. HOTEL,Jl. Tanah Abang I No 11 Petojo,IR. Irvan,PT. Permata Intan Abadi,021 3843889,021 3843889,Hotel Melati,23-10-15
+BAMBOO INN,Jl. H. Saaman No. 9,IR. Herman Prananto,PT. Global Trimitra Griya,021 56969625,021 5654653,Hotel Melati,28-10-15
+DELDHIA,Jl. Raden Inten No. 175 A,Uminarsih,PT. Casa Profitindo Corp,021 86102226,021 86102226,Hotel Melati,28-10-15
+RAKACIA HOTEL,Jl. Pemuda No. 10,IR. Pidel Hutahaean,PT. Rakacia Jaya Hotel,021 4720434,021 4720434,Hotel Melati,28-10-15
+LOSARI BLOK. M,Jl. Panglima Polim Raya No. 3 E,"Arwan Tjahjadi, IR",PT. Losari Beach Makassar,021 7265858,021 7269616,Hotel Melati,28-10-15
+SURABAYA PERMAI,Jl. Perniagaan Selatan No. 46,Sugiharto Ongkowijoyo,PT. Hotel Surabaya Permai,021 6907323,021 6922841,Hotel Melati,28-10-15
+AMARIS,Jl. Pasar Baru Timur No. 2021 RT. 004/03,Indratno Marsudidjaja,PT. Mars Graha Lestari,021 3501818,021 6851132,Hotel Melati,30-10-15
+MAX ONE HOTEL,Jl. Pasar Glodok Selatan No. 810 RT.002/001,Kent Chandra Atmadja,PT. TTS HARMONI,021 108,021 108,Hotel Melati,03-11-15
+ROYAL CITY HOTEL,Jl. Petojo VI Y II No. 4 RT. 002/06,Hadi Susanto Sidharta,PT. Murni Berlian Motors,021 3500718,021 3520857,Hotel Melati,12-11-15
+V HOTEL,"Jl. Prof Dr. Soepomo, SH No. 100 RT.001/006",Alexius H Karmadji,PT. Abba Puri Sentosa,021 83909708,021 83909708,Hotel Melati,15-11-15
+DARIZA JAYA,Jl. Perintis Kemerdekaan No. 42,H. Zainul Arifin Sulaiman,,021 4530113,021 4355878,Hotel Melati,15-11-15
+TIGA NUR,Jl. Kramat Pulo Dalam II/F15 No. 5,H. Rusdy Nasution,,021 3909052,021 3909052,Hotel Melati,15-11-15
+PERINSEN,Jl. Mangga Besar Raya No. 103105 Belakang,Liong Johan Leonardo,,021 6290638,021 6296658,Hotel Melati,15-11-15
+NEO HOTEL,Jl. Cideng Timur No. 58,Ferry Sutiono,PT. Graha Mandiri Makmur,021 108,021 108,Hotel Melati,20-11-15
+SEMARANG,Jl. Kramat Pulo No. 9 RT. 008/02,Faray,,021 3903110,021 3903110,Hotel Melati,20-11-15
+PURRI MELATI,Jl. Tiang bendera No. 67,Ricky Gowdjali,PT. Lumbung Mutiara,021 6910708,021 6919081,Hotel Melati,21-11-15
+HOLLYWOOD,Jl. Kebon Jeruk XVIII No. 63 RT. 002/09,Jefri Tobing,PT. California Inti Persada,021 62303449,021 108,Hotel Melati,21-11-15
+7 DAYS HOTEL,Jl. Mangga Besar Raya No. 67 CD RT. 003/02,Tjoa Seng Tian,PT. Tujuh Hari Group,021 62306301,021 108,Hotel Melati,21-11-15
+CHITRA,Jl. Toko Tiga Seberang 23,Farida Sadeli,PT. Andika Saksi Abadi,021 6596283,021 6596282,Hotel Melati,26-11-15
+NALENDRA,Jl. Cipinang Besar Selatan No. 70,Fajar Christian Napitupulu,,021 85902266,021 108,Hotel Melati,10-12-15
+PURI INN,Jl. Raden Saleh 39 D,Kwok Harry Santoso,,021 3926191,021 3926453,Hotel Melati,10-12-15
+GARUDA,Jl. Letjen Suprapto No. 88,Salha Huwel,Salha Huwel,021 4207959,021 4207959,Hotel Melati,11-12-15
+HOTEL SOTIS,Jl. Falatehan I No. 2122,Susanty,PT. Dwimukti Mitra Wisata,021 7399127,021 72796653,Hotel Melati,11-12-15
+M. HOTEL,Jl. Melawai VI No. 27 Blok M/3 Persil No. 32,Moh. Faisal Kemal,PT. Prisynergi Pertama,021 7234848,021 7235749,Hotel Melati,11-12-15
+EVERYDAY,Jl. Mangga Besar Raya No. 20,Paulus Eron Oei,PT. Mitra Karsa Sentosa,021 6006688,021 6006688,Hotel Melati,15-12-15
+THE DHARMEIN,Jl. Sultan Hasanuddin No. 20 Blok M,H. Darmin,PT. Madinah Jaya,021 58902927,021 58902925,Hotel Melati,18-12-15
+ILHAM DUA,Jl. Kemayoran Ketapang No. 90,H. Abu Syufian Zulkifli,H. Abu Syufian Zulkifli,021 4264230,021 4264230,Hotel Melati,20-12-15
+RED STAR HOTEL JAKARTA,"Jl. Mangga Besar VIII No. 12 X,W,V,Y RT. 008/00",Darmadi Marpauli,PT. Angkasa Arthalimas,021 62309768,021 62309769,Hotel Melati,20-12-15
+KARSA UTAMA,Jl. Kebon Kacang IV No. 12,H. Jaenal Mappe,PT. Karsa Utama Lestari,021 3144134,021 3144135,Hotel Melati,24-12-15
+BLUE SKY PANDURATA BOUTIQUE HOTEL,Jl. Raden Saleh No. 12,"Drs. Sabri Ramdhany, MM",PD. Melati Bhakti Satya Prov. Kaltim,021 54120116,021 541202994,Hotel Melati,30-12-15
+OAKTREE HOTEL,Jl. Kebon Kacang XI No. 131 A,Agnes Juniper Husada,PT. Citra Cipta Pesona,021 108,021 108,Hotel Melati,30-12-15
+NEO HOTEL TENDEAN,Jl. Woltermonginsidi No. 131,IR. Lukito Cahya,PT. Dinamika Sentosa Jaya,021 108,021 108,Hotel Melati,30-12-15
+THE PLAZA HOTEL GLODOK,Jl. Pinangsia Raya RT.006/07 Lt. 3,Johannes Suriadjaja,PT. Surya Internusa Hotels,021 6255999,021 6255999,Hotel Melati,31-12-15
+HOTEL 678,Jl. Kemang Selatan No. 125 A RT.001 / RW. 003,Suntoso jacob,PT. Pondok Tirta Sentosa,021 108,021 108,Hotel Melati,31-12-15
+HOTEL LUMINOR 88,"Jl. Pecenongan No. 33, 35, 37 D, 37 EF",Fransiskus Xaverius Tommy Setiawan,PT. Pecenongan Prima Pratama,021 108,021 108,Hotel Melati,17-06-14
+PERMATA,Jl. Sukarjo Wiryopranoto No. 5,Wijaya Mulia,PT. Maju Mandala Sakti,021 6288989,021 6288989,Hotel Melati,22-07-14
+MANIKAM HOTEL,Jl. Bendungan Hilir Raya No. 76,ST. Dermaga Nusa Rangkuti,PT. Manikam Mutiara,021 70710211,021 7253853,Hotel Melati,04-09-14
+MARGOT,Jl. Jaksa No.15/C,Halomoan Tambunan,PT. Margot Lestari,021 3913830,021 3913830,Hotel Melati,16-10-14
+EXPRESS INN,Jl. Pinangsia Timur No. 68,Henry Lesmana,PT. Alam Lestari Jaya,021 6263007,021 6908128,Hotel Melati,18-10-14
+W I N,Jl. Panglima Polim No. 99,Indra Suyono,PT. Win Hotel Indonesia,021 7258228,021 7268333,Hotel Melati,30-12-14
+LAUTZE INDAH,Jl. Lautze No. 24,Lim Thian Long,PT. Hotel Lautze Indah,021 6258333,021 6241607,Hotel Melati,17-01-15
+ASRI,Jl. Ciputat Raya No. 1,Lambertus Tauk,PT. Candilaras Aris Bintang,021 7690925,021 108,Hotel Melati,20-01-15
+AMARIS,Jl. Prof. Dr. Soepomo SH No. 33 RT. 012/003,Erwin Solihin Hartana,PT. Pancha Dana Damai Sejahtera,021 108,021 108,Hotel Melati,22-01-15
+CEMPAKA SARI,Jl. Letjen Suprapto No. 11,H. Iman S. Bastian,H. Iman S. Bastian,021 4204030,021 4208794,Hotel Melati,25-01-15
+HARAPAN JAYA,Jl. Kramat Pulo Dlm No. 1/B .77,Hj. Lies Hamidah,Hj. Lies Hamidah,021 3909330,021 3909330,Hotel Melati,28-01-15
+SEHAT,Jl. Mangga Besar Raya No. 117,Dedy Kurniawan,PT. Hutama Sehat Makmur,021 6280638,021 108,Hotel Melati,03-02-15
+WISMA PERMAI,Jl. Lautze No. 50 A,Sjamsoedin,,021 6282522,021 6241533,Hotel Melati,03-02-15
+PONDOK WISATA INDAH,Jl. Kemang Selatan VIII/C.3,Ny. Mardiah. M,,021 71791587,021 108,Hotel Melati,03-02-15
+FAREL,Jl. Gunung Sahari II No.1,IR. William Siahaan,PT. Lintas Farel Aruan Internasional,021 42801334,021 42801334,Hotel Melati,04-02-15
+CEMPAKA JAYA COTTAGE,Jl. Raya Pelumpang No. 6,"Drs. Idris Sasmita, MM",PT. Jakarta Tourisindo,021 4302136,021 4302137,Hotel Melati,08-02-15
+PERMATA INDAH,Jl. Taman Permata Indah II Kamp.Gusti,Chaidir Yunus,PT. Pondok Permata Indah Permai,021 66600777,021 66604565,Hotel Melati,08-02-15
+678 JAYA SENTOSA,Jl. DI Panjaitan Lingkar Cawang No. 1B,"Nia Yulicha Kurniasih, SE",PT. Enam Tujuh Delapan Jaya Sentosa,021 36736669,021 36736669,Hotel Melati,08-02-15
+LOSARI,Jl. KH. Hasyim Ashari No. 4141A,"Arwan Tjahjadi, IR",PT. Losari Beach Makasar,021 6322515,021 6322515,Hotel Melati,12-02-15
+AMARIS,Jl. Raya Pasar Minggu No. 15 A,"Ir. Danny Budiarto, MBA",PT. Andalusia Andrawina,021 51400366,021 51400365,Hotel Melati,13-02-15
+AMARIS,Jl. Gunung Sahari Raya No. 1,Ariesman Widjaja,PT. Kreasi Cipta Utama,021 62318888,021 62318899,Hotel Melati,15-02-15
+FOKUS,Jl. Kebon Kacang I No. 9,Osmar Onggoputra,,021 3902944,021 3902944,Hotel Melati,18-02-15
+AMARIS,Jl. Mangga Besar Raya No. 7911,Ronny Rambitan,PT. Lusipara Rejeki,021 6262908,021 6262907,Hotel Melati,18-02-15
+FAVE HOTEL,"Jl. Melawai IV No. 3,5.7,9 & 11",Agus Pranonto,PT. Graha Cardo Sejati Indonesia,021 108,021 108,Hotel Melati,28-02-15
+PURI MEGA EXTENTION,Jl. Percetakan Negara VII No. 11,Bambang Siswanto,PT. Sentralcipta Propertindo,021 4259204,021 4259204,Hotel Melati,04-03-15
+AMARIS,Gd. Thamrin City Lt. 6 & 6A Blok HT No. 01  Jl. Ke,Indra Wijaya,PT. Central Indah Palace,021 3929966,021 3907592,Hotel Melati,13-03-15
+LABU INDAH,Jl. Labu No. 4951  Mabes Barat,Lim Haruman Halim,,021 6009250,021 6009253,Hotel Melati,26-03-15
+MENARA PONDOK INDAH,Jl. Metro Pondok Indah Sektor  II Blok. SA,Johannes Peddy Wongsowidjojo,PT. Pondok Indah Tower,021 7500382,021 7500382,Hotel Melati,27-03-15
+ALAMANDA,Jl. Aipda KS. Tubun No. 47,Dr. Azis Mashabi,ALAMANDA,021 5709210,021 5702713,Hotel Melati,01-04-15
+d' ARCICI HOTEL,Jl. Sunter Permai Raya No. 1 A,"Drs. Idris Sasmita, MM",PT. Jakarta Tourisindo,021 6519960,021 6518704,Hotel Melati,05-04-15
+HOTEL ATT,"Jl. T. Bagus Angke, Kp. Gusti No. 1",Erics Phie,PT. Anugrah Tahta Tri Tunggal,021 6681679,021 6681679,Hotel Melati,10-04-15
+CIPTA,Jl. KH. Wahid Hasyim No. 53,IR. Hayanis AS,PT. Yudha Ciptasarana,021 3904701,021 31626531,Hotel Melati,12-04-15
+RADEN,Jl. Raden Saleh No. 24,Jan Semesta,,021 3158842,021 3158842,Hotel Melati,12-04-15
+TEBET RAYA,Jl. Tebet Raya No. 23,Jang Achir Judi,,021 8298738,021 8298738,Hotel Melati,12-04-15
+LYNT HOTEL,Jl. Cideng Timur No. 35 RT.06/06,Tommy Lybianto,PT. Triartha Langgeng Utama,021 63870011,021 6385115,Hotel Melati,15-04-15
+TUNE HOTELS,Jl. Samanhudi No. 25,Mark Michael Reinecke,PT. Red Planet Hotels Indonesia,021 29498800,021 29498889,Hotel Melati,21-04-15
+PHARMIN,Jl. Jatibaru No. 35,H. Rusman A. Muthalib,,021 31924751,021 3160935,Hotel Melati,28-04-15
+AMARIS,Jl. Kramat Raya No. 35,Shinta Djaya,PT. Talu Graha Stesa,021 45850861,021 45850862,Hotel Melati,13-05-15
+RAJA RESIDENCE,Jl. Raya Kebayoran Lama No. 12 C,"R. Doddy Sularso Bangun, SH",CV. Raja Residence,021 72795113,021 108,Hotel Melati,19-05-15
+JEMBATAN LIMA,Jl. Jembatan Lima No. 162,Muliati,,021 6262389,021 6262389,Hotel Melati,20-05-15
+HARCO MANGGA DUA PLAZA,Jl. Mangga Dua Raya No. 2223,Tan Huseng Tanzil,PT. Jatibaru Lestari,021 3905209,021 3905209,Hotel Melati,20-05-15
+HOTEL ZURI EXPRESS MANGGA DUA,Jl. Mangga Dua Dalam No. 5556,Diaz Kurniawan,PT. Zuri Hotel Manajemen,021 22620008,021 22620009,Hotel Melati,21-05-15
+ANTARA,Jl. Antara No. 39 RT. 007/01,Wijaya Mulia,,021 3503403,021 3511155,Hotel Melati,22-05-15
+HOTEL 23,Jl. Kapuk Raya No. 23,Freddy Santoso,PT. Matahari Dewata,021 54377195,021 6191438,Hotel Melati,24-05-15
+HOTEL MENTENG,Jl. Gondangdia Enclek No. 28,Indra Teja Kamarudin,PT. Menteng Sarana Wisata,021 31925208,021 325543,Hotel Melati,28-05-15
+CAPITOL,Jl. Toko Tiga Seberang 27,Tjiptaady Widjaja,,021 6296864,021 6295920,Hotel Melati,30-05-15
+AMARIS,Jl. Prof. Dr. Satrio Blok C.4 Kav. 11,Kusumo Adhi Wardoyo,PT. Graha Satrio Utama,021 108,021 108,Hotel Melati,31-05-15
+ISTANA BUNGUR,Jl. Bungur Besar  XII No. 2,Tedjo Setiawan,PT. Istana Bungur,021 4225116,021 4225116,Hotel Melati,03-06-15
+PENTHOUSE,Jl. Mangga Besar IV No. 23,Joeng Handoyo,,021 108,021 108,Hotel Melati,12-06-15
+TCL 1,Jl. Terusan Bandengan Utara 89.L,Tjiu Sing Khen,,021 6613589,021 6613589,Hotel Melati,12-06-15
+OZONE HOTEL,Jl. Pantai Indah Utara III PIK,Fitria Yusuf,PT. Ozone Fifefa Internasional,021 29673664,021 29673665,Hotel Melati,13-06-15
+MUSTIKA,Jl. Kemurnian VI No. 194,Zheng Zhi Yu,PT. Hotel Mustika,021 6335808,021 108,Hotel Melati,18-06-15
+KEBON KOSONG,Jl. Kebon Kosong Raya No. 8,dr. Agus Budiman Lubis,,021 108,021 108,Hotel Melati,25-06-15
+HOTEL KEPU SELATAN,Jl. Kepu Selatan No. 17 RT. 003/03,dr. Agus Budiman Lubis,,021 4257606,021 4257606,Hotel Melati,28-06-15
+BUDI,Jl. Kebon Kosong XII No. 152,Dr. Agus Budiman Lubis,,021 108,021 108,Hotel Melati,28-06-15
+PERMATA INDAH.2,Taman Permata Indah 2 Jl. Kampung Gusti Blok L,Chaidir Yunus,PT. Pondok Permata Indahpermai,021 66600777,021 66600777,Hotel Melati,28-06-15
+UTAN PANJANG KEMAYORAN,Jl. Kalibaru Timur VI No. 22 RT. 002/008,dr. Agus Budiman Lubis,,021 4212527,021 4212527,Hotel Melati,28-06-15
+BUNGUR SERASI,Jl. Kalibaru Timur VI No. 72,dr. Agus Budiman Lubis,,021 4259083,021 4259083,Hotel Melati,02-07-15
+JATI,Jl. Jati Baru  No. 13,Donny Reza Reinaldy,,021 31927211,021 31927211,Hotel Melati,03-07-15
+D'PRIMAHOTEL,"Jl. Gunung Sahari Raya Blok. A No. 1,2,3,26 & 27",Frans Wantono,PT. Primahotel Manajemen Indonesia,021 99831179,021 108,Hotel Melati,04-07-15
+BI. EXECUTIVE HOTEL,Jl. RE. Martadinata No. 2,M. Achyani Bin Sabihun,PT. Cahaya Bina Makmur,021 6411475,021 6411370,Hotel Melati,09-07-15
+FORTUNA II,Jl. Pintu Besar Selatan No. 69,Lie Kwok Siong,PT. Fajar Fortuna Kencana,021 6313411,021 6313412,Hotel Melati,09-07-15
+PANCORAN JAYA,Jl. Pancoran Raya No. 38,Drs. Dewa Putu Sudhi,,021 63856278,021 63856277,Hotel Melati,12-07-15
+WORLD,Jl. Bandengan Selatan No. 14 RT. 008/005,Sumarno,CV. Dunia Baru,021 29620888,021 29620889,Hotel Melati,15-07-15
+HOTEL TCL,Jl. Teluk Gong No. 41,Tjiu Sing Khean,,021 6680664,021 66095335,Hotel Melati,17-07-15
+TRANS MANGGA DUA,Jl. Mangga Dua Raya No.22,Susana Kosasih,PT. Trans Mangga Dua Megah,021 6906428,021 6906428,Hotel Melati,19-07-15
+KAFILA,Jl. Sukarjo Wiryopranoto 45 AB,Suhaimi Hasan,PT. Sinar Sumatera,021 6261047,021 6261047,Hotel Melati,26-07-15
+WISMA TANJUNG DUREN RESIDENCE,Jl. Tanjung Duren Utara III F No. 48,Soesanto Leo,,021 108,021 108,Hotel Melati,29-07-15
+NEW  MG,Jl. Mangga Besar Raya No. 38 AS,Eman,PT. Pondok Mangga Besar,021 6592949,021 6012688,Hotel Melati,31-07-15
+CIPONDO,Jl. Kramat Jaya No. 911,Zeppy Sutjipto,,021 108,021 108,Hotel Melati,31-07-15
+AMARIS,Jl. IR. H. Juanda No. 3,"Mimie Jumiati,SH",PT. Graha Kasih Sejahtera,021 3458733,021 3458732,Hotel Melati,31-07-15
+PERMAI,Jl. Mangga Besar Raya No. 24,Sherly,PT. Sugindo Impressa Permai,021 6282520,021 6241533,Hotel Melati,12-08-15
+SHALOM,Jl. Kramat Pulo No. 18/A,"Ir. Paul Retika, MSC",,021 3155274,021 3155274,Hotel Melati,12-08-15
+G7 HOTEL,Jl. KH. Samanhudi No. 47,Abujadi Hartawan,,021 108,021 108,Hotel Melati,29-08-15
+ZULIA CIPULIR,Jl. H.  Syatirih RT.002 Ulujami,Zsul Akhyar B.H Bustaman,,021 5864072,021 79183602,Hotel Melati,29-08-15
+PURI KWITANG,Jl. Kramat Kwitang 1 No. 11 A,Tedy Samsuri,CV. Hotel Puri Kwitang,021 3927688,021 3927688,Hotel Melati,29-08-15
+ARUNI,Jl. RE. Martadinata No. 10,Rudi Setiawan,PT. Nurcahaya Budimakmur,021 6917053,021 6917053,Hotel Melati,03-09-15
+HOTEL CABIN,Jl. Yos Sudarso Kav. 8788,Hanadi Sunjoto,PT. Kartika Jaya Abadi,021 5677923,021 5672295,Hotel Melati,05-09-15
+HOTEL FAVE,Jl. KH. Wahid Hasyim No. 135,Ir. Iwan S Susantyo,PT. Robina Putra Perkasa,021 3929838,021 3929838,Hotel Melati,05-09-15
+TAMANSARI,Jl. Tamansari VI No. 14 B RT. 009/07,H. Iman S. Bastian,H. Iman S. Bastian,021 6290273,021 6290273,Hotel Melati,09-09-15
+PINANGSIA,Jl. Pinangsia I No. 55,Henry Lesmana,PT. Sumber Berkah Sakti,021 6246478,021 6244726,Hotel Melati,12-09-15
+MY HOTEL,Jl. Hayam Wuruk No. 127 A,Johnson Putra Lawadinata,PT. Gracelil Mulia Abadi,021 6291818,021 6291818,Hotel Melati,17-09-15
+7 DAYS HOTEL,Jl. Gajah Mada 196/Jl. Kemurnian IV,Tjoa Seng Tian,PT. Tujuh Hari Group,021 62306301,021 108,Hotel Melati,17-09-15
+AMARIS,Jl. Panglima Polim Raya No. 101 Blok N/III RT. 00,Andy Widjanarko,PT. Graha Multi Utama,021 108,021 108,Hotel Melati,22-09-15
+AMARIS,Jl. Panglima Polim Raya No. 4,Lilik Oetomo,PT. Amaris International,021 7267111,021 7267555,Hotel Melati,26-09-15
+BIG HOTEL,Jl. Kartini Raya 64 No. 2,Timmy Yuwono,PT. Wijaya Energi Semesta,021 6000500,021 62318480,Hotel Melati,26-09-15
+HOTEL 88,Jl. Mangga Besar VIII RT. 008/01 No. 10 D,FX Tommy Setiawan,PT. Waringin Buana Citra Realty,021 108,021 108,Hotel Melati,30-09-15
+HOTEL 88,Jl. Mangga Besar No. 62,FX Tommy Setiawan,PT. Bangun Cipta Jaya Abadi,021 108,021 108,Hotel Melati,30-09-15
+NEW MANGGA BESAR,Jl. Mangga Besar Raya No. 68 BC,"Gregorious, SN. Marsam",PT. Wahana Warna Wisata,021 6391010,021 6391515,Hotel Melati,30-09-15
+HOTEL FEODORA,Jl. Mangga Besar IV No. 18,Khuswari,PT. Feodora Hotel,021 62203686,021 62201151,Hotel Melati,11-10-15
+BELVENA,Jl. Mangga Besar Raya V No. 49,Henry Salim,PT. Adidaya Sakti Perkasa,021 6263566,021 6264266,Hotel Melati,11-10-15
+ROXY ROYAL,"Jl. Supiori No. 33A, 55A5B",Thio Suzana Martha,,021 6316153,021 6316153,Hotel Melati,16-10-15
+HOTEL GANI,Jl. KS. Tubun Raya no.9,Hartono Widjaja,,021 5712375,021 5712375,Hotel Melati,16-10-15
+AGUSTA CENGKARENG,Jl. Kamal Raya Ling.Luar Barat No. 1,Agus Muchsin,CV. Agusta Jakarta,021 5453132,021 5453129,Hotel Melati,18-10-15
+SMART HOTEL,Jl. Tanjung Karang No. 2,Arifin Siman,PT. Best Harvest Nusantara,021 3500123,021 3446883,Hotel Melati,18-10-15
+CITI M. HOTEL,Jl. Tanah Abang I No 11 Petojo,IR. Irvan,PT. Permata Intan Abadi,021 3843889,021 3843889,Hotel Melati,23-10-15
+DELDHIA,Jl. Raden Inten No. 175 A,Uminarsih,PT. Casa Profitindo Corp,021 86102226,021 86102226,Hotel Melati,28-10-15
+BAMBOO INN,Jl. H. Saaman No. 9,IR. Herman Prananto,PT. Global Trimitra Griya,021 56969625,021 5654653,Hotel Melati,28-10-15
+LOSARI BLOK. M,Jl. Panglima Polim Raya No. 3 E,"Arwan Tjahjadi, IR",PT. Losari Beach Makassar,021 7265858,021 7269616,Hotel Melati,28-10-15
+SURABAYA PERMAI,Jl. Perniagaan Selatan No. 46,Sugiharto Ongkowijoyo,PT. Hotel Surabaya Permai,021 6907323,021 6922841,Hotel Melati,28-10-15
+AMARIS,Jl. Pasar Baru Timur No. 2021 RT. 004/03,Indratno Marsudidjaja,PT. Mars Graha Lestari,021 3501818,021 6851132,Hotel Melati,30-10-15
+MAX ONE HOTEL,Jl. Pasar Glodok Selatan No. 810 RT.002/001,Kent Chandra Atmadja,PT. TTS HARMONI,021 108,021 108,Hotel Melati,03-11-15
+ROYAL CITY HOTEL,Jl. Petojo VI Y II No. 4 RT. 002/06,Hadi Susanto Sidharta,PT. Murni Berlian Motors,021 3500718,021 3520857,Hotel Melati,12-11-15
+DARIZA JAYA,Jl. Perintis Kemerdekaan No. 42,H. Zainul Arifin Sulaiman,,021 4530113,021 4355878,Hotel Melati,15-11-15
+PERINSEN,Jl. Mangga Besar Raya No. 103105 Belakang,Liong Johan Leonardo,,021 6290638,021 6296658,Hotel Melati,15-11-15
+V HOTEL,"Jl. Prof Dr. Soepomo, SH No. 100 RT.001/006",Alexius H Karmadji,PT. Abba Puri Sentosa,021 83909708,021 83909708,Hotel Melati,15-11-15
+TIGA NUR,Jl. Kramat Pulo Dalam II/F15 No. 5,H. Rusdy Nasution,,021 3909052,021 3909052,Hotel Melati,15-11-15
+SEMARANG,Jl. Kramat Pulo No. 9 RT. 008/02,Faray,,021 3903110,021 3903110,Hotel Melati,20-11-15
+NEO HOTEL,Jl. Cideng Timur No. 58,Ferry Sutiono,PT. Graha Mandiri Makmur,021 108,021 108,Hotel Melati,20-11-15
+7 DAYS HOTEL,Jl. Mangga Besar Raya No. 67 CD RT. 003/02,Tjoa Seng Tian,PT. Tujuh Hari Group,021 62306301,021 108,Hotel Melati,21-11-15
+HOLLYWOOD,Jl. Kebon Jeruk XVIII No. 63 RT. 002/09,Jefri Tobing,PT. California Inti Persada,021 62303449,021 108,Hotel Melati,21-11-15
+PURRI MELATI,Jl. Tiang bendera No. 67,Ricky Gowdjali,PT. Lumbung Mutiara,021 6910708,021 6919081,Hotel Melati,21-11-15
+CHITRA,Jl. Toko Tiga Seberang 23,Farida Sadeli,PT. Andika Saksi Abadi,021 6596283,021 6596282,Hotel Melati,26-11-15
+PURI INN,Jl. Raden Saleh 39 D,Kwok Harry Santoso,,021 3926191,021 3926453,Hotel Melati,10-12-15
+M. HOTEL,Jl. Melawai VI No. 27 Blok M/3 Persil No. 32,Moh. Faisal Kemal,PT. Prisynergi Pertama,021 7234848,021 7235749,Hotel Melati,11-12-15
+HOTEL SOTIS,Jl. Falatehan I No. 2122,Susanty,PT. Dwimukti Mitra Wisata,021 7399127,021 72796653,Hotel Melati,11-12-15
+GARUDA,Jl. Letjen Suprapto No. 88,Salha Huwel,Salha Huwel,021 4207959,021 4207959,Hotel Melati,11-12-15
+ILHAM DUA,Jl. Kemayoran Ketapang No. 90,H. Abu Syufian Zulkifli,H. Abu Syufian Zulkifli,021 4264230,021 4264230,Hotel Melati,20-12-15
+RED STAR HOTEL JAKARTA,"Jl. Mangga Besar VIII No. 12 X,W,V,Y RT. 008/00",Darmadi Marpauli,PT. Angkasa Arthalimas,021 62309768,021 62309769,Hotel Melati,20-12-15
+KARSA UTAMA,Jl. Kebon Kacang IV No. 12,H. Jaenal Mappe,PT. Karsa Utama Lestari,021 3144134,021 3144135,Hotel Melati,24-12-15
+NEO HOTEL TENDEAN,Jl. Woltermonginsidi No. 131,IR. Lukito Cahya,PT. Dinamika Sentosa Jaya,021 108,021 108,Hotel Melati,30-12-15
+BLUE SKY PANDURATA BOUTIQUE HOTEL,Jl. Raden Saleh No. 12,"Drs. Sabri Ramdhany, MM",PD. Melati Bhakti Satya Prov. Kaltim,021 54120116,021 541202994,Hotel Melati,30-12-15
+THE PLAZA HOTEL GLODOK,Jl. Pinangsia Raya RT.006/07 Lt. 3,Johannes Suriadjaja,PT. Surya Internusa Hotels,021 6255999,021 6255999,Hotel Melati,31-12-15
+ANTONI,Jl. Hayam Wuruk 111 RT. 003/09,Raymond Antoni Hung,PT. Antonindo Surya Asta,021 6003777,021 6003777,Hotel Melati,13-01-16
+HOTEL DE' QUR,Jl. Kali Besar Barat No. 27,Naif Abdullah,PT. Dequrindo Citra Selaras,021 6915425,021 6915427,Hotel Melati,18-02-16
+AMARIS,Jl. Kapten P. Tendean  No. 11 RT. 014/002,Andy Widjanarko,PT. Primamulti Utama Lestari,021 108,021 108,Hotel Melati,20-12-16
+NEW IDOLA,Jl. Pramuka Raya No. 26,Yuneva LS,Yuneva LS,021 8503232,021 8503232,Hotel Melati,22-02-15
+ILHAM,Jl. Kalibaru Timur IV/39,H.Abu Syufian Zulkifli,,021 4258566,021 4258566,Hotel Melati,26-03-15
+TCL 2,Jl. Terusan Bandengan Utara 91.C,Tjiu Sing Khean,,021 6624880,021 66695335,Hotel Melati,12-06-15
+FORTUNA,Jl. Pancoran No. 42,Lie Kie Tong,PT. Ultra Kreasi Utama,021 6907459,021 6294594,Hotel Melati,25-06-15
+RAKACIA HOTEL,Jl. Pemuda No. 10,IR. Pidel Hutahaean,PT. Rakacia Jaya Hotel,021 4720434,021 4720434,Hotel Melati,28-10-15
