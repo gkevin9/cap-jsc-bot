@@ -1,0 +1,11 @@
+/.ipynb_checkpoints/*
+/__pycache__/*
+/s2s/*
+/training_checkpoints/*
+inference.ipynb
+inference-web.html
+networks_seq2seq_nmt.ipynb
+nmt_with_attention.ipynb
+training.ipynb
+training-with-attention.ipynb
+vocabPickle
