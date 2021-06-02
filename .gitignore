@@ -1,6 +1,5 @@
 /.ipynb_checkpoints/*
 /__pycache__/*
-/s2s/*
 /training_checkpoints/*
 inference.ipynb
 inference-web.html
