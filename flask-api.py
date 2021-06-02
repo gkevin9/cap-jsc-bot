@@ -66,6 +66,14 @@ def api_question():
     else:
         return "Error: Question not found"
 
-    return jsonify(main(question))
+    if question != "":
+        tempAnswer = main(question)
+        answer = {"answer": tempAnswer}
+    else:
+        answer = {"answer": "no"}
+        
+    return jsonify(answer)
+    # answer = main(question)
+    # return answer
 
-app.run()
+app.run(host="0.0.0.0", port=5000)
