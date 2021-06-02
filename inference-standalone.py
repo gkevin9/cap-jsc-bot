@@ -81,8 +81,8 @@ def main():
 
         # Update states
         states_value = [h, c]
-
-    print(decoded_sentence)
+    
+    print("Hasilnya :", decoded_sentence)
 
 def preprocessing(question, vocab):
     inputArr = question.split(" ")

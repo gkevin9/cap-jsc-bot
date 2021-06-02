@@ -87,8 +87,8 @@ def main():
     history = model.fit(
         [enc_input_data, dec_input_data],
         dec_target_data,
-        batch_size=1,
-        epochs=20,
+        batch_size=64,
+        epochs=10,
         validation_split=0.2
     )
 
