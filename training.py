@@ -4,6 +4,7 @@ from tensorflow.keras.layers import Dense, Embedding, LSTM, Input, Masking, Bidi
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 
 import numpy as np
+import matplotlib.pyplot as plt
 
 import pickle
 import string
@@ -83,7 +84,7 @@ def main():
     )
 
     #train
-    model.fit(
+    history = model.fit(
         [enc_input_data, dec_input_data],
         dec_target_data,
         batch_size=1,
@@ -95,9 +96,27 @@ def main():
     print("==>Saving Model")
     model.save("s2s")
     dbfile = open('vocabPickle', 'wb')
+
     print("==>Saving Vocab")
     pickle.dump(vocab, dbfile)                     
     dbfile.close()
+
+    print("==>Show Training Accuracy")
+    plt.plot(history.history['accuracy'])
+    plt.plot(history.history['val_accuracy'])
+    plt.title('model accuracy')
+    plt.ylabel('accuracy')
+    plt.xlabel('epoch')
+    plt.legend(['train', 'test'], loc='upper left')
+    plt.show()
+
+    plt.plot(history.history['loss'])
+    plt.plot(history.history['val_loss'])
+    plt.title('model loss')
+    plt.ylabel('loss')
+    plt.xlabel('epoch')
+    plt.legend(['train', 'test'], loc='upper left')
+    plt.show()
 
 def splitQnA(list):
     question = []
