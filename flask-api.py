@@ -22,4 +22,4 @@ def api_question():
     # answer = main(question)
     # return answer
 
-app.run(host="34.101.181.101", port=5000)
+app.run(host="0.0.0.0", port=5000)
